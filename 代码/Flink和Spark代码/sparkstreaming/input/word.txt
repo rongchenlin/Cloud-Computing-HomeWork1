@@ -1,0 +1,9 @@
+apple
+pen
+apple
+pen
+apple
+pear
+pear
+peach
+apple

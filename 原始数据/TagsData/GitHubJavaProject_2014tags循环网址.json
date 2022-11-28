@@ -1,0 +1,1277 @@
+{"tags1":"","tags2":" java snippets design-patterns principles awesome-list hacktoberfest snippets-library snippets-collection"}
+{"tags1":" java guava","tags2":""}
+{"tags1":" android java chart graph mpandroidchart","tags2":""}
+{"tags1":"","tags2":" java http json orm tool util hutool"}
+{"tags1":"","tags2":" java map redis set list queue executor cache scheduler redis-cluster lock session tomcat distributed redis-client hibernate mapreduce distributed-locks spring-cache"}
+{"tags1":" python java scala sql big-data flink","tags2":""}
+{"tags1":" android java exoplayer mediaplayer","tags2":""}
+{"tags1":"","tags2":" fast build scalable test bazel build-system correct multi-language"}
+{"tags1":"","tags2":""}
+{"tags1":"","tags2":" java learning tutorial stream guide java-8 lambda-expressions parallel-streams"}
+{"tags1":" android widget imageview","tags2":""}
+{"tags1":"","tags2":" android java bytecode compiler jsp static-analysis java-decompiler decompiler apk war smali bytecode-viewer dex2jar fernflower cfr baksmali procyon recompiler krakatau"}
+{"tags1":" timepicker datepicker wheelview pickerview optionspicker android-pickerview","tags2":""}
+{"tags1":"","tags2":" hadoop"}
+{"tags1":"","tags2":" agent performance monitoring apm tracing distributed-tracing"}
+{"tags1":" android easing-functions animation","tags2":""}
+{"tags1":" android java android-development android-application android-architecture architectural android-cleanarchitecture","tags2":""}
+{"tags1":" java spring spring-boot spring-cloud spring-boot-admin","tags2":""}
+{"tags1":"","tags2":" java iot postgres sql database big-data time-series analytics cpp grafana postgresql simd low-latency financial-analysis tsdb hacktoberfest time-series-database questdb"}
+{"tags1":"","tags2":" android material-design android-library android-ui"}
+{"tags1":" android material-design","tags2":""}
+{"tags1":" java json jwt jackson jwt-claims jwt-tokens jwt-token jwt-bearer-tokens jwt-authentication jwt-server jwt-auth java-jwt jwt-middleware jjwt jwtauth","tags2":""}
+{"tags1":"","tags2":" mybatis mybatis-plugin"}
+{"tags1":"","tags2":" java security cryptography privacy crypto cloud-storage cryptomator"}
+{"tags1":" java sample reactive example rxjava thread concurrency reactive-programming learning-rxjava","tags2":""}
+{"tags1":"","tags2":" android comic manga doujinshi"}
+{"tags1":" android chart","tags2":""}
+{"tags1":"","tags2":" mapper mybatis mybatis-plugin"}
+{"tags1":" elasticsearch sql","tags2":""}
+{"tags1":"","tags2":" javascript optimization closure-compiler typechecking"}
+{"tags1":" java opencv computer-vision ffmpeg multimedia maven javacv opencv-java","tags2":""}
+{"tags1":"","tags2":" java static-analysis"}
+{"tags1":" c java c-plus-plus ipc messaging multicast-streams","tags2":""}
+{"tags1":"","tags2":" android java material"}
+{"tags1":" android numberprogressbar prgressbar","tags2":""}
+{"tags1":"","tags2":" visualization nlp data-science machine-learning statistics deep-learning graph clustering interpolation genetic-algorithm linear-algebra regression nearest-neighbor-search classification wavelet dataframe computer-algebra-system manifold-learning multidimensional-scaling"}
+{"tags1":" java java-platform java-application btrace","tags2":""}
+{"tags1":"","tags2":" android kotlin java firebase google mobile maps geolocation push-notifications kotlin-android auth cloud-messaging google-cloud-messaging microg"}
+{"tags1":"","tags2":" java functional-programming java8 javaslang immutable-collections object-functional persistent-collections vavr"}
+{"tags1":" java jwt dx-sdk","tags2":""}
+{"tags1":" android kotlin java dialog bottom-sheet","tags2":""}
+{"tags1":"","tags2":" java redis reactive asynchronous redis-sentinel redis-cluster redis-client azure-redis-cache aws-elasticache"}
+{"tags1":"","tags2":" java database hbase"}
+{"tags1":"","tags2":" java microservices spring spring-boot spring-cloud cloud-native ribbon netflix-zuul netflixoss feign netflix-eureka netflix-hystrix spring-cloud-core"}
+{"tags1":" android widget switchbutton","tags2":""}
+{"tags1":" deprecated android-library","tags2":""}
+{"tags1":"","tags2":" java"}
+{"tags1":"","tags2":" java bitcoin p2p exchange bisq"}
+{"tags1":"","tags2":" android kotlin java mobile material-design filemanager frontend rxjava mvvm fdroid playstore"}
+{"tags1":"","tags2":" android java chat xmpp messenger instant-messaging jabber"}
+{"tags1":" banner splash androidx","tags2":""}
+{"tags1":" android java emulator optimization virtual-machine reverse-engineering malware deobfuscation malware-analyzer dalvik malware-analysis malware-research deobfuscator android-malware reverse-engineer-apk","tags2":""}
+{"tags1":" c java c-plus-plus cpp maven-plugin jni javacpp","tags2":""}
+{"tags1":" java testing mocking mocking-framework testability","tags2":""}
+{"tags1":"","tags2":" javascript ruby python c java dart rust golang cplusplus gps geo latitude longitude street-address pluscode openlocationcode"}
+{"tags1":"","tags2":" java nifi hacktoberfest"}
+{"tags1":"","tags2":" java sql big-data hadoop geospatial calcite"}
+{"tags1":" editor flash decompiler swf","tags2":""}
+{"tags1":" android calendar custom-view calendar-view","tags2":""}
+{"tags1":"","tags2":" java hacktoberfest jmonkeyengine3 jmonkeyengine jme3"}
+{"tags1":"","tags2":" android java ffmpeg ffmpeg-wrapper ffmpeg-android-java ffmpeg-android android-ffmpeg"}
+{"tags1":" jetbrains ide gsonformat","tags2":""}
+{"tags1":"","tags2":" java matrix collaborative-filtering matrix-factorization systems sparse recommender tensor-factorization collaborative tensor factorization filtering recommender-systems recommendation-algorithms probabilistic-graphical-models"}
+{"tags1":" java task spring spi lts springboot","tags2":""}
+{"tags1":" java database curator","tags2":""}
+{"tags1":"","tags2":" java latex jabref bibtex biblatex bibliography javafx research-tool javafx-application academic-publications hacktoberfest academia javafx-desktop-apps reference-manager"}
+{"tags1":"","tags2":" java decompiler reverse-engineering"}
+{"tags1":" android imageview android-library kenburnsview","tags2":""}
+{"tags1":" android java library swipe-gestures","tags2":""}
+{"tags1":" java docker maven maven-plugin","tags2":""}
+{"tags1":" android sqlite rxjava storio","tags2":""}
+{"tags1":"","tags2":" java xmpp collaboration jabber openfire hacktoberfest xmpp-server"}
+{"tags1":" java nlp-library fudannlp fnlp","tags2":""}
+{"tags1":" java algorithm distance jaro-winkler levenshtein-distance similarity-measures cosine-similarity string-distance damerau-levenshtein shingles distance-measure","tags2":""}
+{"tags1":" android java animation drawer icons material-menu icon-states","tags2":""}
+{"tags1":" monitoring prometheus prometheus-exporter java-agent jmx mbean","tags2":""}
+{"tags1":" android animation android-library lollipop circularreveal","tags2":""}
+{"tags1":" easing-functions animation android-easing-functions","tags2":""}
+{"tags1":" weixin wechat weixin-sdk weixin-java-sdk","tags2":""}
+{"tags1":" java api docker client-library docker-java","tags2":""}
+{"tags1":" java performance","tags2":""}
+{"tags1":" android java wrapper ripple material-ripple","tags2":""}
+{"tags1":" java redis gui jedis","tags2":""}
+{"tags1":"","tags2":" android java xmpp android-library jabber java-library xmpp-client-library"}
+{"tags1":" android animation imageview gesture","tags2":""}
+{"tags1":" java database jdbc sqlite","tags2":""}
+{"tags1":" android python java maven native-libraries javacpp-presets","tags2":""}
+{"tags1":"","tags2":" android java synchronization peer-to-peer p2p"}
+{"tags1":" java metadata png video mp4 photography jpeg tiff quicktime exif iptc xmp icc webp eps","tags2":""}
+{"tags1":"","tags2":" data replication management apache ingestion"}
+{"tags1":" java docker container orchestration helios","tags2":""}
+{"tags1":"","tags2":" android java ultimateandroid"}
+{"tags1":"","tags2":" java mqtt broker moquette"}
+{"tags1":"","tags2":" kafka schema-registry rest-api confluent kafka-rest-proxy"}
+{"tags1":" java library mahout","tags2":""}
+{"tags1":"","tags2":" java serialization json protobuf graph protostuff"}
+{"tags1":"","tags2":" json schema kafka protobuf avro schema-registry json-schema rest-api confluent schemas avro-schema protobuf-schema"}
+{"tags1":" git java microservices spring spring-boot vault spring-cloud cloud-native spring-cloud-core","tags2":""}
+{"tags1":"","tags2":" wechat wechat-sdk wechat-framework wechat-bot wechat-api"}
+{"tags1":"","tags2":" java machine-learning kafka apache-spark cloudera apache-kafka lambda-architecture oryx"}
+{"tags1":" android java videorecorder","tags2":""}
+{"tags1":" java big-data parquet","tags2":""}
+{"tags1":"","tags2":" sql analytics nosql sql-database nosql-database"}
+{"tags1":" android java gesture swipeback","tags2":""}
+{"tags1":" android-application screen-capture","tags2":""}
+{"tags1":"","tags2":" java openhab add-ons"}
+{"tags1":"","tags2":" java docker fabric8 maven"}
+{"tags1":"","tags2":" embulk bulk-loader"}
+{"tags1":" hazelcast rate-limiting rate-limit infinispan rate-limiter token-bucket apache-ignite oracle-coherence jcache","tags2":""}
+{"tags1":"","tags2":" java google-cloud cloud-storage cloud-bigquery cloud-datastore artisanal"}
+{"tags1":"","tags2":" javascript java javafx docbook plantuml mathjax mathml ditaa asciidoc asciidoctor mermaid"}
+{"tags1":"","tags2":" android java twitter"}
+{"tags1":"","tags2":" java reactive high-performance restful web-framework full-stack webframework rapidoid"}
+{"tags1":"","tags2":" java apps healthcare fhir java-api mhealth hl7 hapi-fhir"}
+{"tags1":" android animation foldablelayout","tags2":""}
+{"tags1":" android iot serial usb hardware spi usb-serial-adapters serialport android-usb-host usb-serial-controller ftdi-devices iot-device ftdi-device android-hardware android-serial-port","tags2":""}
+{"tags1":" java client-library","tags2":""}
+{"tags1":" airplay","tags2":""}
+{"tags1":"","tags2":" kotlin modular micro-framework web-framework webframework microframework"}
+{"tags1":" android java custom-view wheelview","tags2":""}
+{"tags1":" pdfs extracting-tables extraction-engine","tags2":""}
+{"tags1":" java testing coverage mutation-testing junit testng mutation-analysis","tags2":""}
+{"tags1":"","tags2":" java spring-boot samples"}
+{"tags1":" java docker containers","tags2":""}
+{"tags1":" java nlp tire nlp-lang","tags2":""}
+{"tags1":"","tags2":" library cloud cep cncf stream-processing cloud-native complex-event-processing online-learning streaming-data-processing"}
+{"tags1":"","tags2":" adopt-this-plugin"}
+{"tags1":" android fbutton","tags2":""}
+{"tags1":"","tags2":" science bioinformatics spark genomics genome ngs sequencing dna gatk"}
+{"tags1":"","tags2":" android java android-library androidutils proguard"}
+{"tags1":"","tags2":" javascript java teachers students universities angular educators google-cloud feedback-systems teammates peer-evaluations"}
+{"tags1":" canvas animation waveview","tags2":""}
+{"tags1":" dice animation android-library progressbar animations googleprogressbar nexus-cross","tags2":""}
+{"tags1":" java ffmpeg","tags2":""}
+{"tags1":" android java json data binding functions data-binding layout-engine dynamic-layout proteus","tags2":""}
+{"tags1":" java activerecord web server restful httpclient","tags2":""}
+{"tags1":" azure proxy aws-s3 s3 google-cloud-storage openstack-swift backblaze-b2 atmos","tags2":""}
+{"tags1":" hacktoberfest hacktoberfest2020","tags2":""}
+{"tags1":"","tags2":" security tor anticensorship censorship-circumvention anonymity"}
+{"tags1":" android java credit-card nfc java-library emv tlv track2","tags2":""}
+{"tags1":" java web-framework struts","tags2":""}
+{"tags1":"","tags2":" mysql kotlin java opensource microservices spring-boot agile rest-api collaboration guava vaadin mysql-server project-management kanban springframework mybatis quartz-scheduler mybatis3 onpremises"}
+{"tags1":" android java ripple android-library android-ui rippleview","tags2":""}
+{"tags1":" android animation gif","tags2":""}
+{"tags1":"","tags2":" java deployment packaging jvm jar"}
+{"tags1":" android ui validation input forms form","tags2":""}
+{"tags1":"","tags2":" java minecraft sponge spongepowered mixins gradle minecraft-server mixin-framework spongeapi spongeforge"}
+{"tags1":"","tags2":" java minecraft forge mod minecraft-mod applied-energistics hacktoberfest appliedenergistics"}
+{"tags1":" apk-parser","tags2":""}
+{"tags1":"","tags2":" java api minecraft sponge spongepowered gradle spongeapi hacktoberfest"}
+{"tags1":"","tags2":" java nlp data-science machine-learning statistics big-data"}
+{"tags1":"","tags2":" java minecraft hacktoberfest"}
+{"tags1":" android android-imageview","tags2":""}
+{"tags1":" java gamedev framework libgdx decision-making pathfinding artificial-intelligence npc movement steering-behaviors formation-motion behavior-trees state-machines","tags2":""}
+{"tags1":"","tags2":" docs sdk intellij jetbrains intellij-plugin intellij-platform intellijidea-plugin"}
+{"tags1":" android animation android-library blur image-manipulation live-blurring renderscript","tags2":""}
+{"tags1":"","tags2":" java workshops ticket reservation ticketing event conferences meetups alfio"}
+{"tags1":"","tags2":" android java material-design gradle continuous-integration volley reader free light-novel android-studio umeng 2014-now wenku8 mewx eclipse-android"}
+{"tags1":" kotlin java database nosql key-value db transactional embedded-database entity-store log-structured schema-less snapshot-isolation xodus youtrack","tags2":""}
+{"tags1":" java minecraft mixins gradle processor mixin-framework asm trait annotations","tags2":""}
+{"tags1":" android xposed","tags2":""}
+{"tags1":" android java windows macos ios automation selenium java-client appium","tags2":""}
+{"tags1":"","tags2":" python java machine-learning scala spark hadoop distributed-computing pyspark mapreduce reducers hadoop-mapreduce distributed-algorithms mappers data-algorithms"}
+{"tags1":" lua bitcoin jvm wasm","tags2":""}
+{"tags1":" android purchase billing billing-api","tags2":""}
+{"tags1":" java map vector openstreetmap","tags2":""}
+{"tags1":" client reactive web server sockjs vertx","tags2":""}
+{"tags1":"","tags2":" java networking volley android-library image-cache requestqueue volleyplus"}
+{"tags1":"","tags2":" intellij-plugin phpstorm-plugin time-tracking webstorm-plugin pycharm-plugin rubymine-plugin appcode-plugin datagrip-plugin androidstudio-plugin gogland-plugin rider-plugin"}
+{"tags1":"","tags2":" android java aws-sdk amazon-web-services aws-sdk-android aws-mobile"}
+{"tags1":" java json typescript jax-rs maven-plugin gradle-plugin jackson typescript-generator","tags2":""}
+{"tags1":" java database monitoring histogram connection-pool hikaricp dbcp flexy-pool","tags2":""}
+{"tags1":" java phoenix sql database big-data","tags2":""}
+{"tags1":"","tags2":" java cron crontab cron-libraries cron-definitions cron-expression cron-utils quartz hacktoberfest cron4j"}
+{"tags1":" android java textview","tags2":""}
+{"tags1":"","tags2":" android java kubernetes open-source platform mqtt raspberry-pi iot aws arduino microservices kafka integration helm zookeeper internet-of-things iot-platform device-management iot-framework sitewhere"}
+{"tags1":" java workflow-engine activitiy","tags2":""}
+{"tags1":" cordova-plugin bluetooth-low-energy","tags2":""}
+{"tags1":"","tags2":" java sync demo multi-threading synchronization concurrency deadlock showcase multithreading parallelism concurrent-programming thread-safety concurrency-problem concurrency-issue concurrency-gotchas"}
+{"tags1":" android listview pulltorefresh","tags2":""}
+{"tags1":"","tags2":" java education tomcat lms vle sakai sakai-cle hacktoberfest"}
+{"tags1":"","tags2":" java home-automation iot smarthome internet-of-things eclipseiot"}
+{"tags1":"","tags2":" software-architecture structurizr c4model architecture-diagrams"}
+{"tags1":"","tags2":" network configuration network-analysis network-automation network-security configuration-parser network-verification configuration-analysis network-validation"}
+{"tags1":"","tags2":" java microservices payara-server payara-micro microprofile jakarta-ee jakartaee"}
+{"tags1":"","tags2":" android package-manager installer store"}
+{"tags1":"","tags2":" java nlp natural-language-processing chinese-nlp chinese-text-segmentation nlp-keywords-extraction pos-tagging solr-plugin chinese-word-segmentation jcseg mmseg lucene-analyzer elasticsearch-analyzer keywords-extraction lucene-tokenizer jcseg-analyzer opensearch-analyzer opensearch-tokenizer elasticsearch-tokenizer"}
+{"tags1":"","tags2":" java lambda functional-programming tuples io-monad algebraic-data-types monad functor lenses monoid semigroup optics either hlist profunctors traversable coproduct maybe-monad bifunctors try-monad"}
+{"tags1":" android java architecture mvvm android-library","tags2":""}
+{"tags1":" java gitlab gitlab-api hacktoberfest gitlab4j-api java-gitlab-api","tags2":""}
+{"tags1":" android java android-library","tags2":""}
+{"tags1":" custom-view qq-tab draggable","tags2":""}
+{"tags1":" android java geolocation android-app microg unifiednlp","tags2":""}
+{"tags1":"","tags2":" java protocol quickfix quickfixj fixprotocol"}
+{"tags1":"","tags2":" java big-data analytics bi-server analytics-platform"}
+{"tags1":"","tags2":" java library xml cxf network-server network-client"}
+{"tags1":" hacktoberfest","tags2":""}
+{"tags1":"","tags2":" java weixin"}
+{"tags1":" java natural-language natural-language-generation nlg simplenlg realiser surface-realiser","tags2":""}
+{"tags1":"","tags2":" android 4chan imageboard-browser"}
+{"tags1":" downloadmanager android-downloadmanager android-thin-downloadmanager","tags2":""}
+{"tags1":"","tags2":" java web microservice"}
+{"tags1":"","tags2":" android java task gradle android-development threading"}
+{"tags1":" listview android-library flabbylistview","tags2":""}
+{"tags1":"","tags2":" java microservices spring spring-boot consul service-discovery spring-cloud configuration cloud-native spring-cloud-core"}
+{"tags1":" java automata fsm transition finite-state-machine state-machines fsm-library hierarchical-states","tags2":""}
+{"tags1":" java android-library blur etsy dialogfragment etsyblur","tags2":""}
+{"tags1":"","tags2":" java tracking openstreetmap gps geospatial map-matching"}
+{"tags1":"","tags2":" hacktoberfest"}
+{"tags1":"","tags2":" java graphql docker webservice microservices database rest mongodb microservice nosql rest-api websockets data-persistence restheart"}
+{"tags1":"","tags2":" hacktoberfest mediathekview mediathekview-das-programm"}
+{"tags1":"","tags2":" game music java lwjgl osu"}
+{"tags1":"","tags2":" java mvc mongodb restful web-framework mvc-framework webframework hot-reload ebean morphia java-web actframework restful-framework mvc-frameworks"}
+{"tags1":" java dns library java-library dnssec dnsjava dnssec-support","tags2":""}
+{"tags1":"","tags2":" java finance derivatives quantitative-finance opengamma strata market-risk otc etd"}
+{"tags1":"","tags2":" art android learning education design mobile vr ar"}
+{"tags1":"","tags2":" java aws monitoring microservice websocket health actor qbit websocket-support"}
+{"tags1":" cordova ionic monetization phonegap cordova-plugin admob doubleclick google-admob admob-plugin","tags2":""}
+{"tags1":" java hashing high-performance murmurhash3 cityhash hash-functions farmhash xxhash openhft","tags2":""}
+{"tags1":"","tags2":" diff abstract-syntax-tree"}
+{"tags1":"","tags2":" android java camera-api"}
+{"tags1":"","tags2":" java demo mobile mapbox mapbox-android-demo mapbox-android-sdk"}
+{"tags1":"","tags2":" python java platform middleware spark integration dataset spark-streaming java-8 unified mapreduce cdap"}
+{"tags1":" plugin java open-source minecraft bukkit slimefun spigot paper spigotmc modpack survival mods modded hacktoberfest papermc","tags2":""}
+{"tags1":" live-streaming broadcast html-video","tags2":""}
+{"tags1":" ranger","tags2":""}
+{"tags1":"","tags2":" router routing pcb help-wanted routing-engine kicad dsn autoroute auto-router pcb-design autorouter specctra auto-route autorouting"}
+{"tags1":"","tags2":" java debugger erlang elixir tracing xref"}
+{"tags1":" android view roundedletterview","tags2":""}
+{"tags1":"","tags2":" microservices rest api-management api-gateway gateway apis synapse"}
+{"tags1":"","tags2":" java data-frame data-frames dataframe-library joinery"}
+{"tags1":" java sort dict","tags2":""}
+{"tags1":" android android-studio tips-and-tricks","tags2":""}
+{"tags1":" java docker postgres unit-testing database testcontainers platform-java","tags2":""}
+{"tags1":"","tags2":" android java remote-control adb android-device jnlp"}
+{"tags1":"","tags2":" game java rpg role-playing vtt roleplaying hacktoberfest tabletop roleplaying-game maptool roleplaying-games virtual-tabletop"}
+{"tags1":" android java aes-encryption","tags2":""}
+{"tags1":" java gui libgdx scene2d","tags2":""}
+{"tags1":"","tags2":" java rest rest-api swagger openapi openapi-specification openapi3 swagger-parser"}
+{"tags1":" java microservices spring spring-boot spring-cloud cloud-native spring-cloud-core","tags2":""}
+{"tags1":"","tags2":" android java gradle android-studio android-sample arcgis-runtime-sdk arcgis-android-sdk native-development arcgisruntime"}
+{"tags1":" android security relay security-audit nfc cloning replay android-nfc hce","tags2":""}
+{"tags1":"","tags2":" nodejs java andriod p2p rhino udt node-android p2p-http httpp"}
+{"tags1":" java map tracking openstreetmap spatial-analysis map-matching","tags2":""}
+{"tags1":" java intellij intellij-plugin","tags2":""}
+{"tags1":" java java-multithreading","tags2":""}
+{"tags1":"","tags2":" android game kids"}
+{"tags1":" screenshot webdriver crop comparison","tags2":""}
+{"tags1":"","tags2":" java cloud word-cloud wordcloud kumo"}
+{"tags1":" parse-platform parse-android parse-ui","tags2":""}
+{"tags1":"","tags2":" java aws spring spring-boot spring-cloud aws-sqs aws-ses aws-rds aws-cloudformation hacktoberfest aws-elasticache aws-java-sdk spring-cloud-core"}
+{"tags1":"","tags2":" identity oauth2 authentication authorization sso saml2 oidc mfa hacktoberfest access-management adaptive-authentication"}
+{"tags1":" docker orchestration cattle middle-managers cat-herding","tags2":""}
+{"tags1":" java php laravel symfony intellij jetbrains blade phpstorm intellij-plugin phpstorm-plugin","tags2":""}
+{"tags1":" cordova phonegap google-sign google-sign-in","tags2":""}
+{"tags1":" android animation viewpager transformer android-viewpager-transformers pager-transformers","tags2":""}
+{"tags1":"","tags2":" android community xmpp encrypted im kontalk"}
+{"tags1":" javascript java cordova camera objective-c cordova-plugin camera-preview","tags2":""}
+{"tags1":" java api serialization cross-platform serializer rpc rpc-server hprose rpc-client rpc-framework rpc-library rpc-service serialization-library serialize cross-language","tags2":""}
+{"tags1":" java minecraft modpack skcraft-launcher skcraft","tags2":""}
+{"tags1":" github android java android-application gitskarios","tags2":""}
+{"tags1":"","tags2":" java minecraft bukkit spigotmc protocolsupport papermc"}
+{"tags1":" java oauth2 microservices spring spring-boot spring-cloud cloud-native zuul feign spring-cloud-core","tags2":""}
+{"tags1":"","tags2":" integration-testing imap smtp pop3 greenmail"}
+{"tags1":"","tags2":" java security"}
+{"tags1":"","tags2":" java identity saml spring spring-boot authentication iam sso spring-security-saml"}
+{"tags1":"","tags2":" exercism-track"}
+{"tags1":" android view circleview","tags2":""}
+{"tags1":" data-science data database etl desktop data-analysis mdm profiling datacleaner dataquality","tags2":""}
+{"tags1":" java reactivex rxjava javafx","tags2":""}
+{"tags1":"","tags2":" java machine-learning clustering machine-learning-algorithms streaming-algorithms moa data-stream-mining"}
+{"tags1":" android animation ripple android-library lollipop","tags2":""}
+{"tags1":" java eclipse intellij jetbrains phpstorm webstorm pycharm clion androidstudio","tags2":""}
+{"tags1":"","tags2":" java cli sdk smartcard javacard globalplatform"}
+{"tags1":" github docker jenkins continuous-integration docker-compose","tags2":""}
+{"tags1":" android material-design japanese wanikani kanji","tags2":""}
+{"tags1":"","tags2":" android android-studio"}
+{"tags1":"","tags2":" plugin java docker jenkins cloud jenkins-plugin hacktoberfest adopt-this-plugin"}
+{"tags1":"","tags2":" java integration math clustering optimization interpolation solver least-squares fitting polynomial stat transforms"}
+{"tags1":"","tags2":" java sql jpa criteria-api cte"}
+{"tags1":"","tags2":" android ad-blocker xposed"}
+{"tags1":" java redis rocksdb cassandra dynamodb kudu accumulo geowave geospatial-data hbase geoserver spatiotemporal","tags2":""}
+{"tags1":" android dialog material-theme","tags2":""}
+{"tags1":"","tags2":" java api minecraft hypixel"}
+{"tags1":"","tags2":" java api search-engine modular serverless backend json-api rest-api back-end api-server self-hosted rapid-prototyping baas standalone-server para backend-server backend-as-a-service backend-service backend-api"}
+{"tags1":"","tags2":" matrix blas linear-algebra-library sparse-matrix hacktoberfest"}
+{"tags1":" android java material lyrics","tags2":""}
+{"tags1":" java modbus","tags2":""}
+{"tags1":" java json circleci json-document jsondiffpatch jsondiff jsonpatch compaction","tags2":""}
+{"tags1":" android internet-connection network-connection wifi event-bus otto greenrobot-bus","tags2":""}
+{"tags1":" android java phone-number android-sdk android-library phone-format edittext mask social-security maskededittext","tags2":""}
+{"tags1":"","tags2":" java docker activemq online-judge mybatis spring-mvc"}
+{"tags1":"","tags2":" git java maven maven-plugin gitflow github-flow git-workflows"}
+{"tags1":" java testing integration-testing mocking codebase unittesting codecoverage","tags2":""}
+{"tags1":" android image-processing android-application","tags2":""}
+{"tags1":" android playback media-player dash android-mediaplayer android-component android-api","tags2":""}
+{"tags1":" processing gui gui-library controlp5 processing-library","tags2":""}
+{"tags1":"","tags2":" java multiobjective-optimization metaheuristics software-framework"}
+{"tags1":" android java","tags2":""}
+{"tags1":"","tags2":" android rxjava blur retrofit2 konachan"}
+{"tags1":" android java log-message","tags2":""}
+{"tags1":"","tags2":" java swing"}
+{"tags1":" java elasticsearch vietnamese vietnamese-analysis-plugin analysis-plugin","tags2":""}
+{"tags1":" java dynamic android-development android-application application-security signature-verification","tags2":""}
+{"tags1":"","tags2":" java csv orm spring jdbc mapper sql2o jdbi"}
+{"tags1":" benchmark algorithm android-application blur renderscript","tags2":""}
+{"tags1":"","tags2":" javascript java json functional-programming xml underscore xml-to-json json-to-xml-converter java-xmlbuilder xmlbuilder json-to-xml json-to-xml-java xml-to-json-java"}
+{"tags1":" java csv zero-dependency csv-parser csv-reader","tags2":""}
+{"tags1":"","tags2":" audio android media-player opensles opensl-es"}
+{"tags1":" java java-client consul-api","tags2":""}
+{"tags1":" java cloud big-data helix","tags2":""}
+{"tags1":" html-parser xpath antlr4 jsoupxpath","tags2":""}
+{"tags1":"","tags2":" java steamworks bindings"}
+{"tags1":" java certificate rest-api pki certificate-transparency hsm certificate-authority crl ocsp pkcs11 ca cmp ocsp-responder scep rfc5280 rfc2560 rfc6960 certification-authority ca-browser-forum","tags2":""}
+{"tags1":"","tags2":" android java wallabag"}
+{"tags1":"","tags2":" oauth2 authentication authorization sso openid-connect openid-provider sso-authentication sso-login single-sign-on uma"}
+{"tags1":"","tags2":" java tdd bdd test-automation behavior-driven-development test-driven-development jgiven"}
+{"tags1":"","tags2":" android kotlin java machine-learning ai onboarding mrz pdf417 kyc identity-documents mrtd identity-document id-card-camera scanning-id-cards id-scanning"}
+{"tags1":"","tags2":" android sdk braintree credit-card payments"}
+{"tags1":" android java photos android-library capture pick-images multiimagepicker","tags2":""}
+{"tags1":"","tags2":" minecraft spigot-plugin bukkit-plugin towny"}
+{"tags1":" java minecraft skin mod skin-mod","tags2":""}
+{"tags1":" android game java 2048","tags2":""}
+{"tags1":" android opengl-es opengl-es20 opengl-es30","tags2":""}
+{"tags1":" java neo4j recommendation-engine neo4j-graphaware-framework graphaware-recommendation-engine","tags2":""}
+{"tags1":"","tags2":" java microservices spring spring-boot messaging spring-cloud cloud-native spring-cloud-core"}
+{"tags1":"","tags2":" game java dnd"}
+{"tags1":" mysql java socket sockets unix-domain-socket ipc postgresql rmi jni inter-process-communication bsd-sockets crosscompile vsock java-sockets-api junixsocket jni-library af-unix tipc","tags2":""}
+{"tags1":" android java filter instagram-filters gpuimage image-filters","tags2":""}
+{"tags1":" java groovy rest springframework spring-mvc exception-handler","tags2":""}
+{"tags1":"","tags2":" template-engine"}
+{"tags1":" tracker android java analytics metrics android-sdk piwik piwik-sdk matomo matomo-sdk","tags2":""}
+{"tags1":" game java jmonkeyengine jme dungeon-keeper dk2","tags2":""}
+{"tags1":" non-sox","tags2":""}
+{"tags1":" servlets tomcat jsf servlet javaee cdi glassfish payara javaee8 beanvalidation json-b","tags2":""}
+{"tags1":"","tags2":" game card"}
+{"tags1":"","tags2":" java hmm viterbi hmm-viterbi-algorithm"}
+{"tags1":"","tags2":" android gradle-plugin launcher-icon"}
+{"tags1":" java regex regular-expression string-generator","tags2":""}
+{"tags1":"","tags2":" android game java settlers-iii ai-players"}
+{"tags1":"","tags2":" android java finance money-manager moneymanagerex"}
+{"tags1":" android apk dalvik dex","tags2":""}
+{"tags1":"","tags2":" java build apache"}
+{"tags1":"","tags2":" java source-code quartz-scheduler"}
+{"tags1":"","tags2":" android location android-library android-development location-services location-privacy location-based"}
+{"tags1":" android kotlin java encryption kotlin-android decrypt-strings","tags2":""}
+{"tags1":"","tags2":" java android-library bluetooth ble"}
+{"tags1":" react javascript java microservices actors reactjs cluster rmi remoting-service remoting polymerjs","tags2":""}
+{"tags1":" java linux gtk swing cross-platform tray-icon gnome jna swt mac-osx appindicator awt desktop-environment tray-menu systemtray","tags2":""}
+{"tags1":"","tags2":" java rdf wikidata wikibase wikidata-toolkit"}
+{"tags1":"","tags2":" nodejs javascript java metadata reactjs dicom medical-imaging pacs medical-image-computing dicom-standard hacktoberfest medical-informatics dicoogle dicoogle-platform"}
+{"tags1":"","tags2":" java agent learning semantic database ai graph realtime solver logic inference agi rl artificial-general-intelligence reinforcement aikr nars reasoner nal reasoning"}
+{"tags1":" android rxjava swipe rxandroid rxjava2 gesture-detection rxandroid2","tags2":""}
+{"tags1":"","tags2":" java cloud big-data hadoop deployment cloudera hacktoberfest"}
+{"tags1":" android layout android-library rotate","tags2":""}
+{"tags1":" java static-analysis maven-plugin guava joda-time apache-commons","tags2":""}
+{"tags1":" plugin java eclipse eclipse-plugin mybatis","tags2":""}
+{"tags1":"","tags2":" android chess"}
+{"tags1":" android multislider seekbar range-bar slider","tags2":""}
+{"tags1":"","tags2":" java spring spring-boot excel bootstrap4 hibernate poi derby"}
+{"tags1":" java machine-learning deprecated weka waikato","tags2":""}
+{"tags1":"","tags2":" personal budgeting"}
+{"tags1":"","tags2":" java osu"}
+{"tags1":" android android-library android-security","tags2":""}
+{"tags1":" android java credit-card atc mastercard emulates emv-smartcard-protocol downgrade-attack cvc3-codes mastercard-paypass paypass-cards","tags2":""}
+{"tags1":" css java closure closure-stylesheets","tags2":""}
+{"tags1":"","tags2":" java apache archiva maven-repository"}
+{"tags1":"","tags2":" java minecraft bukkit spigot spigot-plugin bukkit-plugin"}
+{"tags1":" rxjava2 android-framework saf","tags2":""}
+{"tags1":" java raml raml-tooling raml-codegen raml-build","tags2":""}
+{"tags1":"","tags2":" java database neo4j nosql-databases graph-databases ogm neo4j-ogm"}
+{"tags1":" android java intellij intellij-plugin android-studio android-studio-plugin","tags2":""}
+{"tags1":" natural-language-processing digital-humanities","tags2":""}
+{"tags1":"","tags2":" relay webrtc application-server deploy job-scheduler rpc rtp mq messagequeue deployrobot udp-relay tcp-relay"}
+{"tags1":" angularjs bootstrap spring-boot hibernate spring-mvc spring-data-jpa","tags2":""}
+{"tags1":"","tags2":" java map maps mapping google-maps javafx javafx-application javafx-library javafx-project"}
+{"tags1":"","tags2":" java pdf pdfbox pdf-files pdf-document pdf-tables"}
+{"tags1":" game java swing snake-game swing-gui","tags2":""}
+{"tags1":" kotlin java clojure stream jvm transformations immutability rrb-tree immutable-collections null-safety functional-transformations persistentvector","tags2":""}
+{"tags1":" findbugs sonarqube-plugin spotbugs","tags2":""}
+{"tags1":"","tags2":" java kafka avro analytics pubsub gcs hdfs analytics-tracking clickstream divolte-collector"}
+{"tags1":"","tags2":" java identity connector openstack keystone neutron openstack4j"}
+{"tags1":" java wrapper wkhtmltopdf","tags2":""}
+{"tags1":"","tags2":" javascript css java html privacy browser web less-is-more"}
+{"tags1":"","tags2":" android gpx logger gps accuracy altitude kml gpslogger gps-logger basicairdata"}
+{"tags1":" android video textureview","tags2":""}
+{"tags1":" java aws gradle gradle-plugin bd","tags2":""}
+{"tags1":"","tags2":" java workflow-engine bpmn bpmn-engine"}
+{"tags1":"","tags2":" java scala compression big-data spark succinct"}
+{"tags1":" android java client real-time database meteor realtime ddp android-ddp","tags2":""}
+{"tags1":" java gui ocr swing tesseract-ocr","tags2":""}
+{"tags1":" android java butterknife navigation-drawer","tags2":""}
+{"tags1":"","tags2":" java testing unit-testing xml xmlunit test-xml"}
+{"tags1":" java mongodb reference-architecture social-data","tags2":""}
+{"tags1":" manga reader lector-manga","tags2":""}
+{"tags1":" android imageview device-tilt","tags2":""}
+{"tags1":"","tags2":" android java testing ios framework webdriver selenium selenium-java appium selenium-grid testng selion selendroid ios-driver selion-grid selion-dataproviders"}
+{"tags1":"","tags2":" kotlin java yaml json xml configuration gson hacktoberfest hocon"}
+{"tags1":" java macos mac pdm","tags2":""}
+{"tags1":" java text-similarity assignment phash plagiarism moss code-similarity jplag","tags2":""}
+{"tags1":" android qbittorrent torrents","tags2":""}
+{"tags1":" commons","tags2":""}
+{"tags1":" android java widget gesturelock","tags2":""}
+{"tags1":"","tags2":" jsf omnifaces"}
+{"tags1":" java blender rendering blender-3d","tags2":""}
+{"tags1":"","tags2":" java minecraft sponge spongepowered gradle mixin-framework spongeapi spongevanilla"}
+{"tags1":" android library ui animation reachability","tags2":""}
+{"tags1":" bigquery hadoop hadoop-filesystem hadoop-hcfs google-cloud-dataproc","tags2":""}
+{"tags1":" barcode-scanner android-zxing","tags2":""}
+{"tags1":" java gsuite samples google-workspace","tags2":""}
+{"tags1":"","tags2":" java ssh ssh-client java-ssh-client"}
+{"tags1":"","tags2":" android game java libgdx"}
+{"tags1":"","tags2":" caffe image-classification android-app caffe-android-lib"}
+{"tags1":" java sql jdbc jpa rdbms","tags2":""}
+{"tags1":"","tags2":" java genomics ngs sequencing sam vcf dna java-api fasta bam cram"}
+{"tags1":"","tags2":" java sdk sql monitoring azure application-insights java-sdk java-agent observability distributed-tracing application-insights-sdk"}
+{"tags1":"","tags2":" android java tcp port-scanner network-discovery wake-on-lan security-scanner dns-lookup"}
+{"tags1":" java demo hibernate-demos","tags2":""}
+{"tags1":" ddd","tags2":""}
+{"tags1":" java plugins spring-framework modularity pf4j","tags2":""}
+{"tags1":" public","tags2":""}
+{"tags1":" rxjava reactive-streams","tags2":""}
+{"tags1":" hive hadoop jdbc cloudera driver apache kerberos hortonworks","tags2":""}
+{"tags1":"","tags2":" javascript java json lua protobuf cxx cross-platform cpp xml excel convert jar xlsx xls msgpack ini pbc protobuf3 xresloader"}
+{"tags1":" java monitoring time-series metrics alerting hawkular","tags2":""}
+{"tags1":" java sort external-memory","tags2":""}
+{"tags1":"","tags2":" graph pattern-matching apache-flink property-graph distributed-graph-analytics graph-mining"}
+{"tags1":"","tags2":" machine-learning hadoop neural-network pipeline random-forest bigdata gbdt shifu end-to-end-machine-learning"}
+{"tags1":" java tutorial opengl glfw lwjgl lwjgl3","tags2":""}
+{"tags1":" tree algorithm linked-list stack queue datastructures graph oop interview sort data-structures interviews sorting-algorithms interview-practice interview-questions algorithm-challenges interview-preparation","tags2":""}
+{"tags1":" css url java html json csv libraries xml escaping","tags2":""}
+{"tags1":" java postgresql tinkerpop sqlg","tags2":""}
+{"tags1":"","tags2":" java distributed-systems real-time realtime collaboration javascript-client interoperability operational-transformation wave gwt federation jsinterop decentralization storage-platform backend-as-a-service swellrt decentralized-applications matrix-org swellrt-server"}
+{"tags1":"","tags2":" java javafx ribbon javafx-library freelancer consultant"}
+{"tags1":"","tags2":" java protobuf protocol-buffers maven-plugin protoc protobuf-compiler protoc-plugins"}
+{"tags1":"","tags2":" samples"}
+{"tags1":"","tags2":" java book camel"}
+{"tags1":"","tags2":" java dropwizard guice"}
+{"tags1":" android listview jar android-library swipe-gestures","tags2":""}
+{"tags1":"","tags2":" java rpg minecraft bukkit spigot paper conversations minecraft-server spigot-plugin bukkit-plugin paper-plugin quests hacktoberfest betonquest rpg-quests quest-plugin"}
+{"tags1":"","tags2":" mod minecraft-mod railgun"}
+{"tags1":" e-hentai exhentai","tags2":""}
+{"tags1":" android video cache","tags2":""}
+{"tags1":" java palette colors color-thief","tags2":""}
+{"tags1":" java stream rxjava iterable-extensions iterable","tags2":""}
+{"tags1":" httpurlconnection android-volley panxw volly-manager requestmanager","tags2":""}
+{"tags1":" android root screen-mirroring","tags2":""}
+{"tags1":" android java ios libgdx moe robovm iap in-app-purchase multi-os-engine gdx-pay","tags2":""}
+{"tags1":" java ed25519 crypto-library eddsa","tags2":""}
+{"tags1":" minecraft forge mod minecraft-mod minecraft-forge agricraft","tags2":""}
+{"tags1":" java spring-boot gradle ddd lombok","tags2":""}
+{"tags1":"","tags2":" android game pixel-art roguelike dungeon dungeon-crawler-game remixed"}
+{"tags1":" weather andriod view icon weather-icons","tags2":""}
+{"tags1":" java neo4j neo4j-graphaware-framework","tags2":""}
+{"tags1":"","tags2":" android typeface imageview iconic-fonts"}
+{"tags1":" benchmarking named-entity-recognition entity-linking benchmarking-framework entity-annotation","tags2":""}
+{"tags1":"","tags2":" java cds fhir clinical-trials cql clinical-research cqm clinical-data clinical-quality-language fhir-path clinical-decision-support clinical-quality-measurement"}
+{"tags1":"","tags2":" java evolution beast phylogenetics bayesian-inference mcmc"}
+{"tags1":" nodejs python rails java couchdb swift php mongodb cloud-foundry bluemix cloudant","tags2":""}
+{"tags1":"","tags2":" github matrix matrix-animation"}
+{"tags1":" snap radar insar esa sar polarimetry earth-observation","tags2":""}
+{"tags1":"","tags2":" mathematics design-patterns hilbert software-engineering wavelet frequency-domain frequency-analysis wavelet-tree wavelet-packets hilbert-spaces wavelet-toolbox orthogonal wavelet-analysis wavelet-decomposition hilbert-transform wavelet-transform wavelet-compression orthogonal-transforms wavelet-transform-algorithm orthonormal"}
+{"tags1":" java ontologies scigraph neo4j-graph","tags2":""}
+{"tags1":" android material material-design material-ui form android-library form-validation onboarding edittext singleinputform","tags2":""}
+{"tags1":"","tags2":" debugger intellij ide haxe idea android-studio idea-plugin haxe-plugin"}
+{"tags1":"","tags2":" java spring-boot"}
+{"tags1":" java review static-code-analysis findbugs pmd jslint gerrit codenarc automated-tests sputnik","tags2":""}
+{"tags1":" support tools scale android-assets densities","tags2":""}
+{"tags1":" dns srv dnsjava","tags2":""}
+{"tags1":" java web integration etl messaging vaadin","tags2":""}
+{"tags1":"","tags2":" docker"}
+{"tags1":"","tags2":" android java webrtc opentok tokbox"}
+{"tags1":" robotics robot-framework robots robotframework robotics-simulation","tags2":""}
+{"tags1":" java database nosql driver arangodb vpack","tags2":""}
+{"tags1":" java encryption aes","tags2":""}
+{"tags1":" elasticsearch jest elasticsearch-jdbc elasticsearch-jest","tags2":""}
+{"tags1":"","tags2":" android java wrapper preferences sharedpreferences sharedpreferences-editor"}
+{"tags1":" java caching memcached spring cache annotations spring-cache","tags2":""}
+{"tags1":"","tags2":" java business bpmn crm orienteer orientdb baas bap low-code nocode no-code-framework"}
+{"tags1":"","tags2":" security oauth2 microservices authentication api-management api-gateway proxy openidconnect authorization sso saml2 identity-management identity-provider scim service-mesh access-management enforce-policies request-routing identity-governance identity-provisioning"}
+{"tags1":" android gps speed","tags2":""}
+{"tags1":" tslint sonarqube lcov sonarqube-plugin","tags2":""}
+{"tags1":"","tags2":" visualization data exploratory-data-analysis tabular-data"}
+{"tags1":" evaluation topic-modeling topic-coherence","tags2":""}
+{"tags1":"","tags2":" java synthesizer jsyn"}
+{"tags1":" java sdl smartdevicelink java-ee smartphone java-se sdl-android","tags2":""}
+{"tags1":" java machine-learning machine-learning-library multi-label-classification gradient-boosting","tags2":""}
+{"tags1":" android java validation gradle annotations form xlform android-forms","tags2":""}
+{"tags1":" java html docker control web maven postgresql financial mariadb jsf primefaces wildfly cdi apache-shiro","tags2":""}
+{"tags1":"","tags2":" javafx java2d javafx-library"}
+{"tags1":" hadoop","tags2":""}
+{"tags1":"","tags2":" dynamic-analysis repair program-repair patch kth inria patch-generation"}
+{"tags1":" java elasticsearch monitoring dashboard kpi gwt metric bam dashbuilder","tags2":""}
+{"tags1":"","tags2":" rest swagger restful-api openapi-specification swagger-api openapi3 validator-badge"}
+{"tags1":"","tags2":" webrtc webrtc-libraries webrtc-signaling nextrtc"}
+{"tags1":" java slack maven slack-webhook","tags2":""}
+{"tags1":"","tags2":" c java static-analysis verification software-verification"}
+{"tags1":"","tags2":" android number preference"}
+{"tags1":" xml xml-parser hacktoberfest stax-api","tags2":""}
+{"tags1":"","tags2":" java node block bitcoin viewer blockchain explorer transactions gwt"}
+{"tags1":" java apple jvm oracle maven-plugin","tags2":""}
+{"tags1":" android java dnssec dns-client dns-library","tags2":""}
+{"tags1":" java sdk maven amp alfresco in-process","tags2":""}
+{"tags1":" angularjs java sql spring spring-boot architecture gpsbabel biking jooq arc42","tags2":""}
+{"tags1":"","tags2":" android java unit-testing integration-testing dagger2 butterknife mvp-architecture retrofit2 mifosx mifosx-platform hacktoberfest mobile-banking"}
+{"tags1":"","tags2":" eclipse-plugin time-tracking"}
+{"tags1":" angularjs java cqrs spring-boot ddd axon-framework","tags2":""}
+{"tags1":" android java ssl socket tcp-client udp-client androidasync","tags2":""}
+{"tags1":" java automation database jsp","tags2":""}
+{"tags1":"","tags2":" java tex netbeans-platform latex-editor"}
+{"tags1":" java shape java2d rasterizer openjdk rendering-2d-graphics","tags2":""}
+{"tags1":" consistency azure aws-s3 s3 google-cloud-storage openstack-swift","tags2":""}
+{"tags1":" react java rhino nashorn","tags2":""}
+{"tags1":" git msr software-engineering mining-software-repositories software-engineering-research","tags2":""}
+{"tags1":" android textview","tags2":""}
+{"tags1":" javafx viewport","tags2":""}
+{"tags1":"","tags2":" java api maven-plugin compatibility api-analyzer revapi"}
+{"tags1":"","tags2":" bukkit funnyguilds hacktoberfest"}
+{"tags1":" java chess-engine chess chess-board chess-ai","tags2":""}
+{"tags1":" java search-engine elasticsearch solr lucene chinese-text-segmentation ik-analyzer solrcloud lucene9","tags2":""}
+{"tags1":" java natural-language-processing solr javafx desktop lucene fulltext-search entity-extraction corenlp","tags2":""}
+{"tags1":"","tags2":" java search-engine solr search-synonyms synonyms lucene lucene-query query-parser search-relevance rewrite-rules querqy-solr querqy-query filter-query querqy"}
+{"tags1":" java api league-of-legends riot-games-api","tags2":""}
+{"tags1":"","tags2":" bitcoin okcoin"}
+{"tags1":" attic","tags2":""}
+{"tags1":" java shell process execute","tags2":""}
+{"tags1":"","tags2":" java php twig annotation intellij phpstorm intellij-plugin phpstorm-plugin"}
+{"tags1":" java big-data knox","tags2":""}
+{"tags1":" wechat wechat-sdk caswechat","tags2":""}
+{"tags1":"","tags2":" java minecraft mod minecraft-mod mod-api minecraft-forge-mod baubles player-inventory"}
+{"tags1":"","tags2":" desktop-app java srt-subtitles"}
+{"tags1":" java collections glazedlists list-transformation","tags2":""}
+{"tags1":"","tags2":" visualization java flow gradle eclipse fbp dataflow-programming non-procedural information-packets"}
+{"tags1":" git java rest code-review gerrit","tags2":""}
+{"tags1":" java javafx cad csg geometry-library javafx-library vrl jcsg constructive-solid-geometries","tags2":""}
+{"tags1":" amqp jms activemq artemis","tags2":""}
+{"tags1":"","tags2":" java api iot measure units-of-measure standard units measurement jcp jsr quantities units-of-measurement jsr363 jsr385"}
+{"tags1":"","tags2":" android kotlin application kotlin-android android-application applock"}
+{"tags1":" java cli microservices spring spring-boot spring-cloud cloud-native eureka hystrix-dashboard config-server spring-cloud-core","tags2":""}
+{"tags1":"","tags2":" java web gwt"}
+{"tags1":"","tags2":" java sip webrtc android-sdk restcomm restcomm-client-sdk"}
+{"tags1":"","tags2":" java http http-client java-http-client"}
+{"tags1":" java library cloud jclouds","tags2":""}
+{"tags1":" android usb mifare nfc external reader ndef acr-reader card-emulation acr122u acr1252 acr1255u-j1","tags2":""}
+{"tags1":"","tags2":" java minecraft forge mod minecraft-mod"}
+{"tags1":" opennlp intent-classification","tags2":""}
+{"tags1":"","tags2":" security oauth jwt oauth2 reactive async vertx"}
+{"tags1":"","tags2":" java google-appengine stock stocks philippines"}
+{"tags1":" java rxjs rxjava vertx rxjava2","tags2":""}
+{"tags1":" java testing unit-testing jasmine rspec bdd test-runner gherkin junit java-8","tags2":""}
+{"tags1":" java workflow workflow-engine saga-pattern workflow-automation nflow orchestrating-processes","tags2":""}
+{"tags1":"","tags2":" bdd assertions junit exception-handling"}
+{"tags1":"","tags2":" java scala xml osgi network-server servicemix network-client"}
+{"tags1":"","tags2":" android lock hacktoberfest dx-sdk"}
+{"tags1":"","tags2":" machine-learning semantic-web machine-learning-library machine-learning-api web-ontology-language"}
+{"tags1":"","tags2":" blog-article"}
+{"tags1":" android ble ibeacon","tags2":""}
+{"tags1":" java cloud brooklyn","tags2":""}
+{"tags1":" android ci fabric crashlytics","tags2":""}
+{"tags1":"","tags2":" jms sqs amazon-sqs jms-queue jms-client"}
+{"tags1":"","tags2":" java profiler fault-tolerance junit hibernate chaos-engineering"}
+{"tags1":"","tags2":" android titanium drawerlayout"}
+{"tags1":" storm mesos mesos-framework","tags2":""}
+{"tags1":" java machine-learning","tags2":""}
+{"tags1":"","tags2":" java orm engine graph-database gremlin tinkerpop ogm tinkerpop-frames tinkerpop3 tinkerpop2"}
+{"tags1":" time-series analytics scalability","tags2":""}
+{"tags1":" java minecraft minecraft-mod minecraft-forge-mod","tags2":""}
+{"tags1":" javascript java library olingo","tags2":""}
+{"tags1":" java docker ssh microservice proxy websocket vertx chromium-plugin relay-server bastion-host zero-trust nassh","tags2":""}
+{"tags1":" minecraft automation mod npc weapons siege ancient medieval warfare","tags2":""}
+{"tags1":"","tags2":" digital-preservation format-validation"}
+{"tags1":" android java simple android-library bluetooth android-bluetooth hacktoberfest android-libs android-lib android-bluetooth-device android-libraries","tags2":""}
+{"tags1":" java api rsync file-transfer rsync-protocol","tags2":""}
+{"tags1":"","tags2":" java library irc irc-bot ircv3 irc-client hacktoberfest kitteh irc-library kicl"}
+{"tags1":" css java hot-reloading javafx hot-reload css-changes","tags2":""}
+{"tags1":" algorithm visualisation pathfinding pathfinding-algorithm grid-map","tags2":""}
+{"tags1":"","tags2":" nodejs javascript java api cloud appengine gcp"}
+{"tags1":"","tags2":" python java spring postgresql foss data-visualization cave hibernate hdf5 meteorology forecasting gempak data-server httpd-server awips python-awips awips-data edex"}
+{"tags1":" android java java-library keepass keepass-database","tags2":""}
+{"tags1":" java big-data tajo","tags2":""}
+{"tags1":" java corejava","tags2":""}
+{"tags1":" java machine-learning information-retrieval algorithm statistics linear-algebra artificial-intelligence","tags2":""}
+{"tags1":" java http rabbitmq","tags2":""}
+{"tags1":" smartcard pki applet javacard","tags2":""}
+{"tags1":" css java parse css3 css-parser java8 modify write","tags2":""}
+{"tags1":"","tags2":" java rpg role-playing roleplaying tabletop role-playing-game roleplaying-games virtual-tabletop"}
+{"tags1":" java protobuf protocol-buffers protoc protobuf-compiler","tags2":""}
+{"tags1":"","tags2":" webhooks webhook teamcity teamcity-plugin webhook-templates"}
+{"tags1":" python java files google gae blob-store google-cloud-storage gcp google-cloud cloud-storage gcs app-engine google-cloud-platform blob-storage","tags2":""}
+{"tags1":" java minecraft mapper","tags2":""}
+{"tags1":" java application encryption swing cross-platform password-generator password-manager desktop desktop-application aes-256 password-store","tags2":""}
+{"tags1":"","tags2":" java formatter formatting editorconfig code-style indentation netbeans-ide editorconfig-files editorconfig-netbeans"}
+{"tags1":"","tags2":" game java open-world text-based role-playing-game"}
+{"tags1":"","tags2":" android keyboard indic-languages"}
+{"tags1":" visualization java graph emf javafx","tags2":""}
+{"tags1":"","tags2":" fbp flow-based-programming visual-programming language-agnostic stepwise-refinement"}
+{"tags1":" plugin java intellij jetty maintainer-wanted","tags2":""}
+{"tags1":" java windows linux agent programming-language framework dsl ide agent-teamwork agent-based-modeling agent-based agents xtext macox","tags2":""}
+{"tags1":"","tags2":" desktop-app windows macos linux image cross-platform photography image-processing image-editor image-manipulation photo photo-editing pixel-editor java-17"}
+{"tags1":"","tags2":" java jvm classloader java-virtual-machine delegation-mode classloader-leaks java-classloader"}
+{"tags1":" android api openpgp openkeychain","tags2":""}
+{"tags1":" http jax-rs netty","tags2":""}
+{"tags1":"","tags2":" recommendation-engine recommender-system taggingtools tag-recommender"}
+{"tags1":"","tags2":" minecraft bukkit spigot spigot-plugin minecraft-plugin mc"}
+{"tags1":"","tags2":" refactoring neo4j graph migrations graph-database hacktoberfest refactoring-tools evolutionary-database-design"}
+{"tags1":"","tags2":" android java windows linux mac opengl html5 game-engine openal"}
+{"tags1":" android service worker background-service jobservice foreground-service jobintent","tags2":""}
+{"tags1":" android java benchmark jetpack measurements androidx jetpack-android jetpack-benchmark","tags2":""}
+{"tags1":"","tags2":" java planning pddl automated librairie"}
+{"tags1":"","tags2":" javascript python c java c-sharp rust c-plus-plus library algorithm typescript data-structure"}
+{"tags1":" java semantic knowledge information semantic-web information-extraction information-visualization topicmaps information-systems topic-extraction topic-map wandora","tags2":""}
+{"tags1":" privacy obfuscation compliance gdpr sensitive-data-security sensitive-data anonymization sensitive-personal-data sensitive-data-discovery","tags2":""}
+{"tags1":"","tags2":" genomics analysis variants phenotypes exome monarchinitiative"}
+{"tags1":"","tags2":" java osgi-enroute osgi-applications"}
+{"tags1":" android java security outdated android-security android-spy-application unsupported","tags2":""}
+{"tags1":"","tags2":" user-interface identity-management sso-authentication"}
+{"tags1":"","tags2":" java security ldap oauth jwt saml facebook twitter sql mongodb authentication login authorization vertx cas logout openid-connect social-login"}
+{"tags1":"","tags2":" java redis performance reactive vertx redis-client event-loop non-blocking"}
+{"tags1":" android emoji java","tags2":""}
+{"tags1":"","tags2":" testing open-source monitoring openshift docker-container nagios icinga e2e-tests e2e docker-image-available sikuli docker-images icinga2 testautomation ui-testing e2e-monitoring application-monitoring omd checkmk sahi"}
+{"tags1":"","tags2":" java library space astrodynamics satellite-prediction attitude spaceflight orbital-mechanics orbit-determination satellite-orbit orbit-propagation space-mechanics"}
+{"tags1":" java sparql solr rdf web-ontology-language sparql-endpoints apache-solr linkeddata","tags2":""}
+{"tags1":" plugin gradle","tags2":""}
+{"tags1":"","tags2":" data-science machine-learning bayesian-methods graphical-models bayesian-networks latent-variable-models streaming-data"}
+{"tags1":"","tags2":" java testing docker kubernetes openshift docker-compose jvm test-automation"}
+{"tags1":" minecraft mod minecraft-mod minecraft-forge","tags2":""}
+{"tags1":" java http tomcat javaee network-server","tags2":""}
+{"tags1":" java sass maven libsass","tags2":""}
+{"tags1":"","tags2":" machine-learning activity-tracker fitness-tracker ukbiobank axivity actigraph geneactiv"}
+{"tags1":"","tags2":" slack monitoring graylog alerting output mattermost rocketchat graylog-plugin alarm-callback"}
+{"tags1":" android ios cordova cordova-plugin notificationcenter localbroadcastmanager cordova-broadcaster","tags2":""}
+{"tags1":" android gradle rating rating-dialog","tags2":""}
+{"tags1":" android java ssh json utility json-configuration android-app mercury mercury-ssh","tags2":""}
+{"tags1":"","tags2":" cryptography crypto authentication macaroons cryptography-library java-library crypto-library"}
+{"tags1":"","tags2":" docker jenkins-builder"}
+{"tags1":" sensor gyroscope android-library accelerometer orientation","tags2":""}
+{"tags1":" elasticsearch demo sql nosql","tags2":""}
+{"tags1":" plugin unity3d","tags2":""}
+{"tags1":" java linux java-library elf elf-parser","tags2":""}
+{"tags1":"","tags2":" java microservices cdi hammock"}
+{"tags1":" game java mario libgdx super","tags2":""}
+{"tags1":" elasticsearch elasticsearch-plugin reindex","tags2":""}
+{"tags1":" truffle lisp-interpreter graalvm","tags2":""}
+{"tags1":"","tags2":" java security log4j logback logging"}
+{"tags1":" translation sponge sponge-documentation","tags2":""}
+{"tags1":" scala big-data samza","tags2":""}
+{"tags1":" android music midi bluetooth ble midi-api ble-midi bluetooth-le-driver","tags2":""}
+{"tags1":" java xml xpath xpath-query jaxp java-xmlbuilder xmlbuilder","tags2":""}
+{"tags1":"","tags2":" java big-data persistence object-to-datastore"}
+{"tags1":" fixtures rest soap integration-testing selenium fitnesse-fixture hsac-fitnesse-fixtures","tags2":""}
+{"tags1":" android lightweight browser web","tags2":""}
+{"tags1":"","tags2":" javascript java ios robot-framework appium detox testdroid bitbar-cloud bitbar-samples"}
+{"tags1":" audio android player media android-application audio-player","tags2":""}
+{"tags1":" java animation decoder gif frame transparency imaging gif-image gif-decoder gif89a gif87a interlacing","tags2":""}
+{"tags1":" javascript ruby java scala programming-challenge contest hackerrank programming-exercise","tags2":""}
+{"tags1":" android habit-tracker","tags2":""}
+{"tags1":" java prometheus prometheus-exporter hystrix","tags2":""}
+{"tags1":"","tags2":" game plugin java minecraft foss minecraft-mod minecraft-forge mumble voip minecraft-forge-mod voip-communications positional-audio"}
+{"tags1":"","tags2":" python java api"}
+{"tags1":" datafu","tags2":""}
+{"tags1":"","tags2":" css java html validation html5 w3c validator"}
+{"tags1":" android java progress progress-bar android-library progressbar progressdialog prevents-flashes","tags2":""}
+{"tags1":" reactive vertx codegen","tags2":""}
+{"tags1":" java voip softphone","tags2":""}
+{"tags1":" java orm ebean playframework","tags2":""}
+{"tags1":" java big-data csharp cplusplus reef","tags2":""}
+{"tags1":"","tags2":" inspire sensor transactional ogc sos observation sensorml waterml sensorweb aqd ereporting hydrology"}
+{"tags1":"","tags2":" java jna apdu pcsc smartcardio smartcard-reader"}
+{"tags1":"","tags2":" tutorial mapreduce"}
+{"tags1":"","tags2":" java json openstreetmap osm gis geocoder gazetteer"}
+{"tags1":" plugin api minecraft spigot worldborder player-based","tags2":""}
+{"tags1":" java libgdx pathfinding-library gamedev-tool","tags2":""}
+{"tags1":"","tags2":" android science robotics autonomous-vehicles"}
+{"tags1":" android java ui popupbutton","tags2":""}
+{"tags1":"","tags2":" android java photos image camera filters gpuimage tusdk"}
+{"tags1":"","tags2":" java feature-flags feature-toggles java-client client-sdk toggles hacktoberfest feature feature-management unleash-server activation-strategy"}
+{"tags1":"","tags2":" java timeseries sax cosine-similarity kdd sax-vsm pattern-discovery"}
+{"tags1":"","tags2":" java workflow zookeeper curator"}
+{"tags1":" monitoring graylog amazon-web-services aws-cloudtrail cloudtrail graylog-plugin","tags2":""}
+{"tags1":"","tags2":" symbolic-execution-engine java-virtual-machine"}
+{"tags1":"","tags2":" multilingual java cms spring-boot thymeleaf hibernate wallride"}
+{"tags1":" javafx undo-redo","tags2":""}
+{"tags1":"","tags2":" minecraft bukkit minecraft-plugin"}
+{"tags1":" android bluetooth ble bluetooth-le bluetooth-controller altbeacon","tags2":""}
+{"tags1":" eclipse pmd eclipse-marketplace","tags2":""}
+{"tags1":" android calendar datepicker persian","tags2":""}
+{"tags1":"","tags2":" java hacktoberfest entando-platform"}
+{"tags1":" networking okhttp error network-monitoring analytical success okhttp-stats","tags2":""}
+{"tags1":" copy paste detection gradle-plugin cpd gradle-cpd-plugin","tags2":""}
+{"tags1":"","tags2":" sample jvm example sample-app webapp example-project playframework"}
+{"tags1":" java ssl-pins","tags2":""}
+{"tags1":"","tags2":" java tree octree kd-tree spatial indexing index r-tree spatial-data quadtree multidimensional crit-bit-trees patricia str-tree tinspin-indexes ph-tree r-star-tree quadtree-hc covertree"}
+{"tags1":" android java xmpp","tags2":""}
+{"tags1":" android java library intent logcat","tags2":""}
+{"tags1":"","tags2":" ruby art processing video jruby creative-coding graphics sound generative-art jrubyart"}
+{"tags1":"","tags2":" android game wolf3d engine3d wolf"}
+{"tags1":" search compression sparql rdf hdt","tags2":""}
+{"tags1":"","tags2":" android sensor android-library sensor-data sensingkit mobile-sensing"}
+{"tags1":" java solr morphology lucene russian-morphology","tags2":""}
+{"tags1":"","tags2":" java ipv6 dhcp netty dhcp-server dhcpv6 dhcpv4 dhcpv6-server dhcpv4-server"}
+{"tags1":" graph graph-mining frequent-patterns frequent-subgraph-mining","tags2":""}
+{"tags1":"","tags2":" java workflow microservices bigdata gateways cloudnative airavata sciencegateways workfloworchestrator"}
+{"tags1":" java irt java-library factor-analysis dif item-response-theory psychometrics rasch scaling-methods test-theory","tags2":""}
+{"tags1":" java finance trading nasdaq soupbintcp binaryfile moldudp64","tags2":""}
+{"tags1":" java bus openstreetmap transportation gtfs transit-agency gtfs-osm-sync gtfs-dataset","tags2":""}
+{"tags1":"","tags2":" java education database-management educational database-language"}
+{"tags1":"","tags2":" imagej fiji image-processing image-analysis mathematical-morphology 3d-images morpholibj"}
+{"tags1":" java permutation combinatorics combinations subsets cartesian-products","tags2":""}
+{"tags1":" java microservices spring spring-boot service-discovery spring-cloud cloudfoundry cloud-native ribbon spring-cloud-core","tags2":""}
+{"tags1":" java native mp3 lame","tags2":""}
+{"tags1":" java elasticsearch maven-plugin","tags2":""}
+{"tags1":"","tags2":" snb"}
+{"tags1":"","tags2":" cran r sql-server dplyr dbi jtds-driver"}
+{"tags1":" gson serialise java-time","tags2":""}
+{"tags1":"","tags2":" java gui games chess cross-platform uci jerry highdpi"}
+{"tags1":" android android-library android-ui","tags2":""}
+{"tags1":" java xbee zigbee xbee-radio xbee-java-library xbee-devices digi digi-xbee","tags2":""}
+{"tags1":" android","tags2":""}
+{"tags1":" java xslt ant-task schematron xml-files xslt-files iso-schematron schematron-files ph-schematron source-schematron","tags2":""}
+{"tags1":" nlp text-mining solr terminology atr ate terminology-extraction","tags2":""}
+{"tags1":"","tags2":" dropwizard hacktoberfest jooq"}
+{"tags1":" java docker-container docker-image docker-daemon","tags2":""}
+{"tags1":"","tags2":" android font preference"}
+{"tags1":" java http salt api-client java8 salt-master salt-minion salt-api","tags2":""}
+{"tags1":" android java files material material-design material-ui file android-library filepicker android-libs android-arsenal android-lib android-libraries filechooser","tags2":""}
+{"tags1":"","tags2":" bsdata-infrastructure"}
+{"tags1":" java arduino robotics internet-of-things firmata firmata-client firmata-protocol","tags2":""}
+{"tags1":"","tags2":" icpc-online-judge uestc-acm"}
+{"tags1":" security encryption aes android-library rsa aes-256 bouncy-castle encrypts ecb","tags2":""}
+{"tags1":" java edelivery java8 invoice eprocurement einvoicing ubl-tr ubl ph-ubl","tags2":""}
+{"tags1":"","tags2":" geoserver wps geotools udig"}
+{"tags1":" retired","tags2":""}
+{"tags1":" maven reporting maven-plugin allure","tags2":""}
+{"tags1":" java macos linux unix osx backup-tool fastcopy fastcopy-mac best-free-file-copy-utility copy-tool-mac fastcopy-opensource drive-benchmark copy-app-for-mac","tags2":""}
+{"tags1":"","tags2":" plugin minecraft avatar spigot spigot-plugin hacktoberfest tla bending projectkorra korra"}
+{"tags1":" java spring-boot spring-security spring-framework two-factor-authentication","tags2":""}
+{"tags1":" java json-rpc","tags2":""}
+{"tags1":" android bitcoin trezor","tags2":""}
+{"tags1":"","tags2":" validation genomics simulation high-throughput-sequencing"}
+{"tags1":"","tags2":" java wso2-balana xacml"}
+{"tags1":" java frontend backend guice acai junit4","tags2":""}
+{"tags1":"","tags2":" java gui reflection bytecode compiler binding jvm dynamic-proxies"}
+{"tags1":" android java progress-bar","tags2":""}
+{"tags1":"","tags2":" json oracle-database"}
+{"tags1":"","tags2":" angularjs java kubernetes devops grunt cloud compass devops-tools tosca alien4cloud"}
+{"tags1":" notifications android watchface wear weardatalayer wearsensors wearos","tags2":""}
+{"tags1":" java mongo oauth2 spring-boot mongodb spring-security-oauth2 spring-boot-2","tags2":""}
+{"tags1":" android frc the-blue-alliance first-frc robotics-competition android-app firstrobotics first-robotics-competition","tags2":""}
+{"tags1":" android adb pc-keyboard android-keyevents","tags2":""}
+{"tags1":"","tags2":" android java sdk retrofit contentful okhttp"}
+{"tags1":" streams","tags2":""}
+{"tags1":" java minecraft minecraft-forge-mod screenshot-utility","tags2":""}
+{"tags1":"","tags2":" jenkins jenkins-plugin junit hacktoberfest"}
+{"tags1":"","tags2":" machine-learning yarn hadoop in-memory iterative"}
+{"tags1":"","tags2":" java jdbc jdbc-driver"}
+{"tags1":" java gamedev framework jam artemis-odb gamedev-framework artemis-odb-contrib","tags2":""}
+{"tags1":"","tags2":" steam technology minecraft-mod"}
+{"tags1":" java testing raml raml-tooling","tags2":""}
+{"tags1":" game java gamedev voxel game-development terasology terasology-module","tags2":""}
+{"tags1":" java http har httparchive har-reader","tags2":""}
+{"tags1":"","tags2":" nand2tetris hardware-simulator vm-emulator"}
+{"tags1":" java asynchronous netty composable-futures rpc-framework","tags2":""}
+{"tags1":"","tags2":" java swift finance mt rje iso15022"}
+{"tags1":" android java research-project smell smell-detector antipatterns paprika","tags2":""}
+{"tags1":" animation pie weights","tags2":""}
+{"tags1":"","tags2":" yarn hadoop apm developer-tools data-analysis hadoop-cluster devops-tools data-quality optimization-framework cluster-monitoring monitoring-tool hadoop-monitor yarn-hadoop-cluster aiops hadoop-monitoring"}
+{"tags1":"","tags2":" graphalytics ldbc"}
+{"tags1":" javafx javafx-8","tags2":""}
+{"tags1":" java algorithm clustering-algorithm trajectory-clustering traclus-algorithm","tags2":""}
+{"tags1":" android f-droid","tags2":""}
+{"tags1":"","tags2":" parser grammar antlr ast syntax-tree asg vb6 antlr4 antlr4-grammar"}
+{"tags1":" java markdown asciidoc asciidoctor asciidoctor-converter","tags2":""}
+{"tags1":"","tags2":" dsl eclipse uml textual"}
+{"tags1":"","tags2":" formatter eclipse-plugin clang-format cpplint"}
+{"tags1":" java sdk jvm feature-flags feature-toggles launchdarkly launchdarkly-sdk","tags2":""}
+{"tags1":" android ios compress rounded-corners titanium-module imagefactory rotate-image","tags2":""}
+{"tags1":" android java research android-security repackaging-detection","tags2":""}
+{"tags1":" android social-network sns image-sharing","tags2":""}
+{"tags1":" java acceptance-testing test-automation cucumber","tags2":""}
+{"tags1":" android java logging logcat","tags2":""}
+{"tags1":"","tags2":" java parsing ipv6 ipv4 ipv4-address ipv6-address"}
+{"tags1":"","tags2":" clojure password-hash crypto-library password-hasher"}
+{"tags1":" maven jar executable dependencies","tags2":""}
+{"tags1":"","tags2":" java amqp jms messaging apache amqp10 qpid amqps"}
+{"tags1":" java wrapper web maps mapping gis openlayers gwt ogc gwt-ol3 jsinterop ol ol3 gwt-ol ol6","tags2":""}
+{"tags1":"","tags2":" gcode grbl tinyg cnc-controller gcode-visualizer g2core gcode-editor"}
+{"tags1":" java elasticsearch","tags2":""}
+{"tags1":" docker aws openstack iaas paas marathon mesos k8s aliyun libcloud","tags2":""}
+{"tags1":" github java education spring ddd web-application software-engineering","tags2":""}
+{"tags1":"","tags2":" android open-source bike bike-sharing"}
+{"tags1":" javafx javafx-library","tags2":""}
+{"tags1":" learning framework mvc","tags2":""}
+{"tags1":" open-source sqlite-database novoda sqlite-analyzer","tags2":""}
+{"tags1":"","tags2":" java maven build-management maven-indexer"}
+{"tags1":"","tags2":" java database erp multi-user independency"}
+{"tags1":" java markdown pdf markdown2pdf","tags2":""}
+{"tags1":" java minecraft server tridentsdk trident","tags2":""}
+{"tags1":" java api ssh api-client j2ssh-maverick","tags2":""}
+{"tags1":" octo-correct-managed","tags2":""}
+{"tags1":" java plugins update modularity pf4j","tags2":""}
+{"tags1":"","tags2":" java fintech java8 date-calculator"}
+{"tags1":" java dtmf bluebox phreaking tone-generator redbox-tone-generation tone-dialer-application","tags2":""}
+{"tags1":" android java shell android-application","tags2":""}
+{"tags1":" java java-utilities database-table-printer","tags2":""}
+{"tags1":" desktop-application seasonal-adjustment","tags2":""}
+{"tags1":" java slack minecraft bukkit spigot bungeecord","tags2":""}
+{"tags1":" java websockets red5 wss ws red5-websocket websocket-plug","tags2":""}
+{"tags1":" android credit-card payments java-library payment-processing","tags2":""}
+{"tags1":" minecraft-mod","tags2":""}
+{"tags1":" android java dribbble android-app","tags2":""}
+{"tags1":" aws amazon-web-services training-materials","tags2":""}
+{"tags1":" android rtl actionbar rtl-direction actionbar-rtl rtl-arranger","tags2":""}
+{"tags1":"","tags2":" java sdk java-sdk commercetools commercetools-sdk commercetools-java-sdks audit-sdk"}
+{"tags1":"","tags2":" dropwizard database-migrations flyway"}
+{"tags1":" rxjava gwt","tags2":""}
+{"tags1":" android solution gcm heartbeat-problem","tags2":""}
+{"tags1":" java spring spring-boot multithreading lmax-disruptor disruptor disruptor-configuration","tags2":""}
+{"tags1":" java cassandra dropwizard datastax-cassandra-driver dropwizard-cassandra","tags2":""}
+{"tags1":" javascript java real-time spring spring-boot logging","tags2":""}
+{"tags1":" java minecraft mod minecraft-forge-mod iron-backpacks","tags2":""}
+{"tags1":" java murmurhash3 murmur3 murmur-hashes murmur1 murmur2","tags2":""}
+{"tags1":" security password","tags2":""}
+{"tags1":"","tags2":" java minecraft mod minecraft-forge icbm bbm builtbrokenmodding"}
+{"tags1":"","tags2":" spring mongodb"}
+{"tags1":"","tags2":" java modular maven javafx desktop osgi drombler-fx drombler-acp drombler-commons application-framework"}
+{"tags1":" java big-data lens","tags2":""}
+{"tags1":" http andriod rest networking volley","tags2":""}
+{"tags1":" elasticsearch minhash elasticsearch-plugin","tags2":""}
+{"tags1":" android nextcloud android-library","tags2":""}
+{"tags1":"","tags2":" schema-migrations database zero-downtime postgresql"}
+{"tags1":" java minecraft forge mod minecraft-mod minecraft-forge backpacks","tags2":""}
+{"tags1":" android java apple geolocation android-app microg unifiednlp","tags2":""}
+{"tags1":" java lambda sql orm","tags2":""}
+{"tags1":"","tags2":" metadata json csv etl mapping xml datamapper schema-mapping datamanagement dswarm"}
+{"tags1":" java rpc socket-server cross-language","tags2":""}
+{"tags1":" java jvm concurrent-programming flow-control disruptor thread-safe","tags2":""}
+{"tags1":"","tags2":" java remote-control game-controller flight-simulator gamepad xinput xbox-controller dcs-world vjoy hotas flight-simulation prepar3d dualshock4 xbox360-controller dinput ps4-controller xbox-one-controller input-profiles gamepad-mapping dualsense"}
+{"tags1":" java minecraft bukkit spigot bukkit-plugin worldguard renting buying regions","tags2":""}
+{"tags1":"","tags2":" java language programming-language jvm dyvil dyvil-programming-language"}
+{"tags1":"","tags2":" historical-data fiware fiware-cygnus"}
+{"tags1":" java ant build-management","tags2":""}
+{"tags1":" android java geocoding openstreetmap nominatim geocoder android-app microg unifiednlp","tags2":""}
+{"tags1":"","tags2":" java csv csv-parser"}
+{"tags1":" java ldap client-library","tags2":""}
+{"tags1":" java password","tags2":""}
+{"tags1":" java java8 either-monad","tags2":""}
+{"tags1":" java symfony doctrine intellij smarty phpstorm intellij-plugin shopware shopware-plugin phpstorm-plugin","tags2":""}
+{"tags1":" java jboss jboss-eap jboss-wildfly","tags2":""}
+{"tags1":" data-preparation","tags2":""}
+{"tags1":"","tags2":" android java home-automation mqtt raspberry-pi esp8266 remote-control esp32 thermostat xbee sensors 1-wire zoning climate-control mqtt-smarthome temperature-zoning"}
+{"tags1":"","tags2":" data-visualization fusion data-management data-processing"}
+{"tags1":" java xinput","tags2":""}
+{"tags1":"","tags2":" java iot sdk"}
+{"tags1":"","tags2":" java testing sql jdbc junit flyway liquibase junit-rule h2-database hsqldb"}
+{"tags1":"","tags2":" java bloom-filters bloom-filter murmur3"}
+{"tags1":"","tags2":" javascript java json database nosql sparql xml marklogic xquery"}
+{"tags1":" android java animation","tags2":""}
+{"tags1":" java template gamedev libgdx quickstart artemis-odb artemis-odb-contrib","tags2":""}
+{"tags1":"","tags2":" pixiv android-app muzei"}
+{"tags1":"","tags2":" java mongo reactive async vertx non-blocking"}
+{"tags1":" java coverage intellij coverage-agent","tags2":""}
+{"tags1":" java marmotta","tags2":""}
+{"tags1":" java imglib2 interactive-analysis interactive-visualizations tracking-algorithm bioimage-analysis microscopy-images large-images trackmate cell-lineage","tags2":""}
+{"tags1":" java chat minecraft gradle liteloader curseforge","tags2":""}
+{"tags1":"","tags2":" java smtp smtp-client email-sending"}
+{"tags1":" plugin c-sharp","tags2":""}
+{"tags1":" wrapper internet-of-things webui sensor-network gsn virtual-sensors","tags2":""}
+{"tags1":"","tags2":" spring models pojo aem spring-mvc mappings apache-sling sling adobe-aem"}
+{"tags1":"","tags2":" java home-automation iot museum galleries"}
+{"tags1":"","tags2":" javascript css svg java browser swing rhino java-8 browser-api browser-css lobo-browser lobo-evolution cssparser pure-java"}
+{"tags1":" behavior controller javafx","tags2":""}
+{"tags1":" jpa jsr-310","tags2":""}
+{"tags1":" java serialization networking analytics job-scheduler persistence android-library batching retry batch-processing strategies persistence-strategies batch-manager","tags2":""}
+{"tags1":" minecraft-mod bunnyhop","tags2":""}
+{"tags1":" java cms framework portal webapp lutece micro-portal","tags2":""}
+{"tags1":"","tags2":" javascript java lambda streams nashorn streaming-api java-virtual-machine datetime-api"}
+{"tags1":"","tags2":" android java hangouts google-hangouts xposed xposed-framework xda-developers"}
+{"tags1":" deprecated","tags2":""}
+{"tags1":" interpreter scripting-language hypermedia interpreted-languages interpreted-programming-language hypercard interpreters scripting-languages openxion xion hypertalk xtalk xcard","tags2":""}
+{"tags1":"","tags2":" golang jenkins-plugin golang-tools"}
+{"tags1":"","tags2":" android"}
+{"tags1":" android utility zip share-intent share-tool android-app","tags2":""}
+{"tags1":"","tags2":" tosca oasis tosca-runtime"}
+{"tags1":" android java ui effects scratch surfaceview","tags2":""}
+{"tags1":" java design-patterns cookbook gof","tags2":""}
+{"tags1":" java arduino oscilloscope","tags2":""}
+{"tags1":"","tags2":" java emf rcp shadowrun character-generator"}
+{"tags1":" computer-science search-engine data-science machine-learning natural-language-processing information-retrieval bioinformatics genomics dictionary fuzzy-search computational-biology edit-distance levenshtein-distance approximate-string-matching distance-metric finite-state-automata finite-state-transducer levenshtein-automata spelling-correction universal-automata","tags2":""}
+{"tags1":" java merkle-tree","tags2":""}
+{"tags1":" minecraft spigot","tags2":""}
+{"tags1":"","tags2":" eclipse jetty hacktoberfest maintainer-wanted eclipse-jetty-plugin"}
+{"tags1":"","tags2":" game gamedev library framework game-engine engine game-development java-game lwjgl3 indiedev"}
+{"tags1":" java protobuf dropwizard protocol-buffers","tags2":""}
+{"tags1":" steam steam-api","tags2":""}
+{"tags1":" javascript cordova ocr tts","tags2":""}
+{"tags1":" spark jar java-client pom","tags2":""}
+{"tags1":"","tags2":" java rna-seq analysis workflow-engine bioinformatics-pipeline cloud-computing-clusters"}
+{"tags1":"","tags2":" messaging edelivery b2b as4 s2s ebms3"}
+{"tags1":"","tags2":" java hadoop nio hdfs"}
+{"tags1":" java excel spreadsheet vaadin vaadin-pro","tags2":""}
+{"tags1":" erlang elixir hbase hbase-driver","tags2":""}
+{"tags1":" java scanner sane sane-daemon","tags2":""}
+{"tags1":" tuning injector iat closed-loop-control compensation ecu vvt open-loop subaru maf-scaling ecu-log wot-vvt table-rescaling injector-pulse-width iat-compensation","tags2":""}
+{"tags1":" java red5-plugins","tags2":""}
+{"tags1":" android web-terminal","tags2":""}
+{"tags1":" java","tags2":""}
+{"tags1":" natural-language-processing relation-extraction exemplar extracts-relations","tags2":""}
+{"tags1":" flex actionscript web-framework","tags2":""}
+{"tags1":"","tags2":" java shaders dome processing-library"}
+{"tags1":" desktop-notifications","tags2":""}
+{"tags1":" java dependency-injection di-framework","tags2":""}
+{"tags1":" science engineering energy simulation physics heat-transfer","tags2":""}
+{"tags1":"","tags2":" emf persistence eclipse-plugin large-models"}
+{"tags1":"","tags2":" archived inactive"}
+{"tags1":" thrift archived quasar","tags2":""}
+{"tags1":"","tags2":" android nfc card-emulation nfc-forum"}
+{"tags1":" game java multiplayer libgdx top-down shooter world-war2","tags2":""}
+{"tags1":" java parsing wavefront","tags2":""}
+{"tags1":" android videoview textureview","tags2":""}
+{"tags1":" android java slf4j log4j logging android-library timber","tags2":""}
+{"tags1":" parsing grammar bnf character-string","tags2":""}
+{"tags1":" android tinder myntra","tags2":""}
+{"tags1":" java nlp machine-learning crf jni crfsuite","tags2":""}
+{"tags1":"","tags2":" android java clojure scala sdk rest realtime realtime-messaging client-library"}
+{"tags1":"","tags2":" java utility reflection generics"}
+{"tags1":"","tags2":" java restful-api"}
+{"tags1":" java sudoku","tags2":""}
+{"tags1":"","tags2":" sunrise commercetools sunrise-java shop-framework"}
+{"tags1":" android game java","tags2":""}
+{"tags1":"","tags2":" java streaming logging stream-processing logging-library streaming-api"}
+{"tags1":" tamaya","tags2":""}
+{"tags1":"","tags2":" aws s3 file-transfer bulk-loader bulkimport copy-files yas3fs"}
+{"tags1":"","tags2":" jenkins digitalocean hacktoberfest jenkins-agent jenkins-cloud crazy-topic"}
+{"tags1":" java cloudslang java-action","tags2":""}
+{"tags1":"","tags2":" elasticsearch kibana spring-boot selenium nunit reports testng difido jsystem"}
+{"tags1":" android timepicker","tags2":""}
+{"tags1":"","tags2":" java invoice zugferd e-invoice konik"}
+{"tags1":"","tags2":" crf named-entity-recognition"}
+{"tags1":" android java sound sound-processing sound-files","tags2":""}
+{"tags1":"","tags2":" java minecraft forge mod hardcore-ender-expansion hee"}
+{"tags1":" android java imageview circle round roundimageview circulerimageview","tags2":""}
+{"tags1":" teamcity teamcity-plugin","tags2":""}
+{"tags1":" johnzon","tags2":""}
+{"tags1":" xamarin melbourne google-glass ptv","tags2":""}
+{"tags1":" android java drawing paint physics-engine box2d particle-animation","tags2":""}
+{"tags1":" blockly propeller parallax-propeller","tags2":""}
+{"tags1":"","tags2":" minecraft spigot-plugin minecraft-plugin"}
+{"tags1":" streaming","tags2":""}
+{"tags1":"","tags2":" java artificial-intelligence fuzzy-logic soft-computing fuzzy-logic-control fuzzylite fuzzylite-libraries"}
+{"tags1":" client runescape osrs","tags2":""}
+{"tags1":"","tags2":" java iec-60870-5-104"}
+{"tags1":" spark apache-spark spark-java","tags2":""}
+{"tags1":" korean romanization","tags2":""}
+{"tags1":" android java metadata annotations androidmanifest android-metadata","tags2":""}
+{"tags1":"","tags2":" oauth2 registration openid-connect enrollment openid-client oauth2-client uma"}
+{"tags1":"","tags2":" java verify security pgp gpg maven-plugin hacktoberfest"}
+{"tags1":" game java tetris tetris-game javfx","tags2":""}
+{"tags1":" java semver sematinc-version","tags2":""}
+{"tags1":"","tags2":" java libreoffice libreoffice-extension libreoffice-writer libreoffice-api"}
+{"tags1":" mysql java image-processing face-recognition face-detection","tags2":""}
+{"tags1":"","tags2":" cryptographic nacl tweetnacl"}
+{"tags1":"","tags2":" java docbook mms ocl sysml magicdraw mbse mdk mbee"}
+{"tags1":" natural-language-processing persian","tags2":""}
+{"tags1":" java open-source sql relational-databases database-support accessing-databases","tags2":""}
+{"tags1":"","tags2":" java-ee e-commerce quarkus"}
+{"tags1":"","tags2":" java bootstrap jquery tiles twitter-bootstrap twitter spring maven postgresql apache ajax spring-security hibernate apache-tiles jquery-validation maven-wrapper java-mail jpa-hibernate jquery-vali spring-mvc-jpa"}
+{"tags1":" java testing mock mockito camunda","tags2":""}
+{"tags1":" json big-data xml xquery document-database distributed-storage nosql-database bagri-server","tags2":""}
+{"tags1":"","tags2":" java events pipeline logging snmpv2-trap log4j-events"}
+{"tags1":"","tags2":" java annotation hotspot hotspot-jvm jit-compiler"}
+{"tags1":"","tags2":" android java korean hangul"}
+{"tags1":" java parser library options annotations usage options-parsing command-line-parser cmdline cmdline-parser","tags2":""}
+{"tags1":"","tags2":" java jackrabbit repository jcr oak"}
+{"tags1":"","tags2":" open-source novoda"}
+{"tags1":" arcus arcus-java-client spymemcached","tags2":""}
+{"tags1":" machine-learning topic-modeling ml4code","tags2":""}
+{"tags1":"","tags2":" java restful full-stack j2ee ameba"}
+{"tags1":" java bot chat-room chatbot jaba","tags2":""}
+{"tags1":" ospf bgp-ls pcep rsvp-te","tags2":""}
+{"tags1":" android kotlin java kotlin-android rgb hex-values","tags2":""}
+{"tags1":" plugin java parse maven grammar ast javacc jjtree","tags2":""}
+{"tags1":"","tags2":" java parser antlr blog-post"}
+{"tags1":" javascript game","tags2":""}
+{"tags1":" rest spring rpc","tags2":""}
+{"tags1":" java swing regex regular-expression desktop-application text-replace replace-function","tags2":""}
+{"tags1":"","tags2":" mysql liquibase percona"}
+{"tags1":" java streams exceptions","tags2":""}
+{"tags1":" java validator guice","tags2":""}
+{"tags1":" android toolbar moving","tags2":""}
+{"tags1":"","tags2":" reporting allure teamcity-plugin"}
+{"tags1":" datepicker","tags2":""}
+{"tags1":" java excel objectmapper excelparser excelreader excelwriter apache-poi","tags2":""}
+{"tags1":" java unicode utf-8 bom jdk inputstream","tags2":""}
+{"tags1":"","tags2":" java gui library swing gui-components"}
+{"tags1":" swing codegenerator","tags2":""}
+{"tags1":" usgs earthquake-hazard psha seismic-hazard seismic-source earthquake-source hazard-curve deaggregation","tags2":""}
+{"tags1":"","tags2":" java security ldap oauth jwt saml facebook twitter sql mongodb authentication login authorization cas undertow logout openid-connect social-login"}
+{"tags1":" android java stackoverflow","tags2":""}
+{"tags1":"","tags2":" java monitoring metrics codahale-metrics signalfx yammer-metrics"}
+{"tags1":" android eeg neurosky bci mindwave","tags2":""}
+{"tags1":"","tags2":" java tools eclipse eclipse-plugin eclipse-ide"}
+{"tags1":" javabuild","tags2":""}
+{"tags1":" java math fraction","tags2":""}
+{"tags1":" bluetooth android-application fitness","tags2":""}
+{"tags1":"","tags2":" java dropwizard conversion quartz hibernate robe"}
+{"tags1":" aes java-library filesystem-api encryption-decryption","tags2":""}
+{"tags1":" java hpc gpu arrayfire gpgpu java-wrapper","tags2":""}
+{"tags1":" java iot measure units-of-measure standard units java8 measurement javase jsr363","tags2":""}
+{"tags1":"","tags2":" game kata hearthstone coding-dojo code-kata trading-card-game"}
+{"tags1":" java rtsp-server rtsp-protocol","tags2":""}
+{"tags1":"","tags2":" java orientdb guice"}
+{"tags1":" game java opengl engine physics","tags2":""}
+{"tags1":" java php twig symfony drupal annotation intellij phpstorm intellij-plugin phpstorm-plugin","tags2":""}
+{"tags1":" java automation cloud containers iaas paas osgi cloud-computing infrastructure-as-code paas-framework apache-karaf roboconf","tags2":""}
+{"tags1":" java color-palette colorpicker colorblind colorbrewer","tags2":""}
+{"tags1":" java wicket orienteer orientdb","tags2":""}
+{"tags1":"","tags2":" java openshift jpa selenium hibernate jsf cloud-computing javaee jboss glassfish springframework arquillian selenium-webdriver hibernate-search hibernate-validator redhat-cloud jboss-wildfly systems-engineering javaee7 systems-theory"}
+{"tags1":" microsoft identity mobile android-app azure-active-directory adal aad","tags2":""}
+{"tags1":" java eclipse-plugin emacsplus","tags2":""}
+{"tags1":"","tags2":" android font installer"}
+{"tags1":"","tags2":" processing projection-mapping processing-language processing-library"}
+{"tags1":" java sample reactive akka akka-streams","tags2":""}
+{"tags1":" java javafx asynctask","tags2":""}
+{"tags1":" gs1 traceability epcis","tags2":""}
+{"tags1":" java mesh-networks wifi-direct","tags2":""}
+{"tags1":" java pdf rendering layout-engine pdfbox pdf-generation","tags2":""}
+{"tags1":" pattern-matching regular-expression search-algorithm searching-algorithms","tags2":""}
+{"tags1":" java paillier-cryptosystem","tags2":""}
+{"tags1":" python jython","tags2":""}
+{"tags1":" growth-team managed-by-terraform","tags2":""}
+{"tags1":" converter wikipedia xml","tags2":""}
+{"tags1":" android broadcastreceiver","tags2":""}
+{"tags1":" etl etl-framework cayenne","tags2":""}
+{"tags1":" generator accelerator devonfw cobigen asset-cobigen","tags2":""}
+{"tags1":" game minecraft bukkit-plugin teams ultrahardcore dedicated-gameservers","tags2":""}
+{"tags1":"","tags2":" android myo"}
+{"tags1":" xml dcp mxf regxml st2001-1 imf","tags2":""}
+{"tags1":" translator ecad","tags2":""}
+{"tags1":" java maven webgis-framework","tags2":""}
+{"tags1":" game java gamedev pokemon game-engine libgdx 3d-engine","tags2":""}
+{"tags1":" android java demo gradle android-sdk android-studio arcgis-runtime-sdk native-development","tags2":""}
+{"tags1":" plugin review sonarqube gerrit","tags2":""}
+{"tags1":" examples solr","tags2":""}
+{"tags1":"","tags2":" mqtt kafka rabbitmq jms stream-processing iot-platform websphere-mq xms ibm-streams"}
+{"tags1":" javafx subtitles stage subtitle-engine propresenter stage-display-viewer lower-key","tags2":""}
+{"tags1":" matcher annotation-processor hamcrest","tags2":""}
+{"tags1":"","tags2":" azure push-notifications apns gcm fcm wns amazon-kindle azure-notification-hubs"}
+{"tags1":" java framework dependency-injection sirius","tags2":""}
+{"tags1":"","tags2":" java postgresql"}
+{"tags1":"","tags2":" java monitoring jvm instrumentation tracing profiling metering probes-api"}
+{"tags1":" java activerecord orm mvc ruby-on-rails","tags2":""}
+{"tags1":"","tags2":" plugin open-source minecraft energy tools bukkit slimefun spigot paper mod minecraft-server electric toolbox machines power mods modded hacktoberfest sensible"}
+{"tags1":"","tags2":" tracking time time-tracker kimai kimai-timetracking stringlate"}
+{"tags1":" java osgi karaf network-server","tags2":""}
+{"tags1":" google-cloud","tags2":""}
+{"tags1":" java networking server netty high-performance lombok git-flow production-ready netty4 xio","tags2":""}
+{"tags1":"","tags2":" bukkit addon skript"}
+{"tags1":" linux unix rm purge-tool free-directory-purge-tool file-delete-utility mass-delete rapiddelete delete-large-folders fastdelete mass-purge-tool recursive-directory-delete mass-directory-delete rapid-delete","tags2":""}
+{"tags1":" deprecated adopt-this-plugin","tags2":""}
+{"tags1":" mysql java couchdb elasticsearch database mongodb importer nosql","tags2":""}
+{"tags1":" android java chromecast","tags2":""}
+{"tags1":" postgresql hibernate","tags2":""}
+{"tags1":" java jenkins pipeline continuous-delivery jenkins-plugin jenkins-ci nexus-oss adopt-this-plugin","tags2":""}
+{"tags1":" android java step-counter","tags2":""}
+{"tags1":" java minhash","tags2":""}
+{"tags1":"","tags2":" java metrics dropwizard camel javaee cdi"}
+{"tags1":" bgp-ls","tags2":""}
+{"tags1":" economics housing agent-based-modeling agent-based agent-based-simulation housing-market uk-housing-market","tags2":""}
+{"tags1":"","tags2":" java log4j jsoup hibernate struts pippo mvc-frameworks wickets"}
+{"tags1":"","tags2":" java katakana hiragana japanese romaji japanese-language zenkaku hankaku"}
+{"tags1":" java formula latex images","tags2":""}
+{"tags1":" java link android-textview","tags2":""}
+{"tags1":" java minecraft server protocol motd playerlist","tags2":""}
+{"tags1":"","tags2":" android lightweight orm database"}
+{"tags1":" automation maven maven-plugin gatling loadtesting","tags2":""}
+{"tags1":"","tags2":" gwt gwt-rpc jts jts-topology-suite"}
+{"tags1":"","tags2":" java ant selenium listener selenium-java pom pdf-report testng"}
+{"tags1":" java annotation excel poi sheet","tags2":""}
+{"tags1":" java jabber xmpp-components","tags2":""}
+{"tags1":"","tags2":" java xmpp jabber xmpp-library"}
+{"tags1":" android java timezone location latitude longitude","tags2":""}
+{"tags1":" libraries seasonal-adjustment","tags2":""}
+{"tags1":" android java custom-fonts","tags2":""}
+{"tags1":" java jdk javascript-engine jre","tags2":""}
+{"tags1":" java nlp keyword-extraction pos-tagger freeling illinois-pos-tagger","tags2":""}
+{"tags1":" android game java sopa","tags2":""}
+{"tags1":"","tags2":" java stream functional-programming recursion java8 lambda-expressions"}
+{"tags1":" dkim dkim-signature","tags2":""}
+{"tags1":" android java apk instrument fuzzing fuzz javafuzz-android","tags2":""}
+{"tags1":" ai bitboards monte-carlo-tree-search 2048 2048-game mcts-algorithm","tags2":""}
+{"tags1":" java template-engine mustache type-safe","tags2":""}
+{"tags1":" android android-app","tags2":""}
+{"tags1":"","tags2":" test jenkins-plugin"}
+{"tags1":" java dropwizard request-tracker","tags2":""}
+{"tags1":"","tags2":" android linux router android-application android-app dd-wrt"}
+{"tags1":" java monad","tags2":""}
+{"tags1":" java irc-bot cmd ip-location mac-address 2048 doudizhu sanguosha websoup","tags2":""}
+{"tags1":" java spring multithreading ring-buffer lmax-disruptor","tags2":""}
+{"tags1":" java video ffmpeg video-processing libav avconv","tags2":""}
+{"tags1":"","tags2":" java web rest java-framework seedstack"}
+{"tags1":" idea-plugin reviewboard","tags2":""}
+{"tags1":" java svm speech emotion-detection","tags2":""}
+{"tags1":" search java elasticsearch solr","tags2":""}
+{"tags1":" android ui recyclerview listiview","tags2":""}
+{"tags1":"","tags2":" android rxjava rxandroid okhttp3 cnblogs"}
+{"tags1":"","tags2":" android java global-development global-health mhealth xforms social-impact mobile-data-collection"}
+{"tags1":" java hadoop storm twitter-sentiment-analysis d3-visualization","tags2":""}
+{"tags1":"","tags2":" java agent simulator test snmp docker-image parallel snmp-agent snmp4j"}
+{"tags1":" java library xml cxf network-server network-client","tags2":""}
+{"tags1":"","tags2":" java oracle schema-management"}
+{"tags1":" zookeeper alarm-system zookeeper-monitor-platform","tags2":""}
+{"tags1":" android android-application task-reminder","tags2":""}
+{"tags1":" certificate validator x509 pkix trust certificate-validation","tags2":""}
+{"tags1":" ddlutils","tags2":""}
+{"tags1":" java sdk legacy payment moip","tags2":""}
+{"tags1":" java iot measure standard units measurement reference-implementation jcp jsr ri jsr363","tags2":""}
+{"tags1":"","tags2":" licensing license-checking licensing-as-a-service offline-licensing licensing-library"}
+{"tags1":" minecraft mod minecraft-mod sky reality minecraft-forge-mod hacktoberfest real-constellations hacktoberfest2021","tags2":""}
+{"tags1":" emulator gameboy chip8 emulators development-methodology vicboma1 schip8 gameboyclassic","tags2":""}
+{"tags1":"","tags2":" java collections joda joda-collect"}
+{"tags1":" unit-testing cascading","tags2":""}
+{"tags1":"","tags2":" webdriver selenium"}
+{"tags1":" android pjsip","tags2":""}
+{"tags1":" obsolete","tags2":""}
+{"tags1":"","tags2":" java rules migrations xml ruleset"}
+{"tags1":" monitoring storm metrics graphite","tags2":""}
+{"tags1":" java minecraft forge mod ic2","tags2":""}
+{"tags1":" java player multiplayer tank-game battle-city java-swing","tags2":""}
+{"tags1":" java webdriver selenium test-framework appium test-reporting","tags2":""}
+{"tags1":" java basic security settings json tree graph datetime runtime xml matrix microdata java8 charset commons","tags2":""}
+{"tags1":" drawing paint image vector bitmap draw image-editing image-editor vector-graphics painting bitmap-graphics","tags2":""}
+{"tags1":"","tags2":" forms form-validation form-builder"}
+{"tags1":" android map ios waterloo campus","tags2":""}
+{"tags1":"","tags2":" open-data parking dresden parking-spots parkendd"}
+{"tags1":" java websockets classloader","tags2":""}
+{"tags1":" java metadata codice nitf imaging-nitf","tags2":""}
+{"tags1":" android java json parse rest xml processor","tags2":""}
+{"tags1":" java camel javaee cdi","tags2":""}
+{"tags1":" android deprecated event-log","tags2":""}
+{"tags1":"","tags2":" java docker hosting"}
+{"tags1":"","tags2":" android java memes doge shibe shiba weather-doge dogeweather doge-adjectives"}
+{"tags1":" java web-framework portals","tags2":""}
+{"tags1":" java wysiwyg origami","tags2":""}
+{"tags1":" android obd obd-response obd-terminal obdii-device","tags2":""}
+{"tags1":" profile minecraft library authentication mojang minecraft-accounts minecraft-authentication","tags2":""}
+{"tags1":" buggy autonomous-driving robotics-club happyfuntimes","tags2":""}
+{"tags1":" java workshop javafx javafx-application fxml scene-builder","tags2":""}
+{"tags1":" java bomberman isel","tags2":""}
+{"tags1":"","tags2":" statistics owl ontology obofoundry"}
+{"tags1":" java gamedev networking udp protocol messaging reliability game-development gamedev-library network-protocol java6 reliable-udp message-oriented virtual-networking","tags2":""}
+{"tags1":"","tags2":" java language programming-language library script custom scripting-language blz-ospl blz"}
+{"tags1":"","tags2":" jenkins-api-plugin"}
+{"tags1":"","tags2":" elasticsearch spring-boot mongodb gradle java-8"}
+{"tags1":"","tags2":" android game java multiplayer libgdx desktop"}
+{"tags1":"","tags2":" java http benchmark sparql rdf benchmarks performance-analysis triplestore performance-testing iguana stresstest stresstesting"}
+{"tags1":"","tags2":" android java annotations android-library httpclient okhttp"}
+{"tags1":" android ros android-studio rosjava","tags2":""}
+{"tags1":"","tags2":" android kotlin java sdk retrofit contentful okhttp"}
+{"tags1":" business peppol document ubl openpeppol validation-engine phive cii ehf peppol-bis en16931 peppol-validation-engine simplerinvoicing ph-bdve energie-efactuur oioubl","tags2":""}
+{"tags1":"","tags2":" netbeans netbeans-plugin php-cs-fixer"}
+{"tags1":" add-on oxygen-standalone-plugin","tags2":""}
+{"tags1":"","tags2":" java csv annotations"}
+{"tags1":" java machine-learning bioinformatics visualisation metagenomics binning","tags2":""}
+{"tags1":" java kubernetes hazelcast in-memory-database","tags2":""}
+{"tags1":" saml sso saml2 opensaml opensaml3","tags2":""}
+{"tags1":"","tags2":" kotlin java bukkit addon skript skript-language"}
+{"tags1":" java graph-compression forked-repo","tags2":""}
+{"tags1":" java coding-standards coding-style java-style","tags2":""}
+{"tags1":"","tags2":" java minecraft gradle forge mod sanderson cosmere"}
+{"tags1":" java guice","tags2":""}
+{"tags1":" idea-plugin","tags2":""}
+{"tags1":" android research-project strace clustering-algorithm malware-detection","tags2":""}
+{"tags1":"","tags2":" java project-management gwt international-ngos offline-capable"}
+{"tags1":" java algorithm hadoop pagerank","tags2":""}
+{"tags1":"","tags2":" java ddd domain-driven-design seedstack"}
+{"tags1":" java dynamic-analysis research-tool execution-trace","tags2":""}
+{"tags1":" spring terasoluna-server-framewrok","tags2":""}
+{"tags1":"","tags2":" oracle-maf"}
+{"tags1":" dicom dicom-api weasis-dicom","tags2":""}
+{"tags1":" game java simulation libgdx game-2d strategy-game historical 4x-strategy-game 4x hexagonal-tiles","tags2":""}
+{"tags1":" java minecraft spigotmc hub","tags2":""}
+{"tags1":" java async netty bson sctp","tags2":""}
+{"tags1":"","tags2":" java home-automation iot middleware gateway domotics"}
+{"tags1":" java universities simulator protocol mpls scenario gos mpls-networks mpls-operation","tags2":""}
+{"tags1":" java database-pool","tags2":""}
+{"tags1":" text-mining database information-extraction xml-parsing schema-matching table-mining annotating-tables","tags2":""}
+{"tags1":" android java tutorial opengl nehe","tags2":""}
+{"tags1":"","tags2":" java tap web-app ivoa uws adql"}
+{"tags1":"","tags2":" visual-studio msvc visualstudio libbluray"}
+{"tags1":" java json json-schema jackson json-pointer json-reference","tags2":""}
+{"tags1":" android search java geocoding location geolocation android-library android-development geocoder reverse-geocoding location-based geocoder-library pelias","tags2":""}
+{"tags1":" java mongodb rxjava dropwizard dropwizard-bundle oplog","tags2":""}
+{"tags1":" java svm crf sgd logistic-regression","tags2":""}
+{"tags1":" learn-to-code","tags2":""}
+{"tags1":" java json sap jco sap-jco","tags2":""}
+{"tags1":" java opengl wurm wurmunlimited","tags2":""}
+{"tags1":"","tags2":" java reflection utility-library commons"}
+{"tags1":" android java dynamics-crm microsoft-dynamics-crm android-activity-tracker","tags2":""}
+{"tags1":"","tags2":" android open-source"}
+{"tags1":"","tags2":" travel-model"}
+{"tags1":"","tags2":" blockchain nxt jelurida"}
+{"tags1":" java workflow alfresco activity spring-mvc activiti-workflow","tags2":""}
+{"tags1":"","tags2":" java jdbc jdbc-driver cratedb"}
+{"tags1":" security password-manager","tags2":""}
+{"tags1":" nodejs javascript java cordova library mobile csharp cplusplus objective-c","tags2":""}
+{"tags1":" android menu","tags2":""}
+{"tags1":" java minecraft admin bukkit spigot memory","tags2":""}
+{"tags1":"","tags2":" java yaml automation simulation cloudsim simulation-scenario cloudsim-plus"}
+{"tags1":" java iot measure units-of-measure units measurement demos units-of-measurement","tags2":""}
+{"tags1":" java opencomputers computronics dfpwm","tags2":""}
+{"tags1":" bitfinex margin-funding","tags2":""}
+{"tags1":" sentry dropwizard","tags2":""}
+{"tags1":" java redis presto connector inmemory sql-query prestodb redis-collection redis-instance","tags2":""}
+{"tags1":"","tags2":" android java"}
+{"tags1":" juddi","tags2":""}
+{"tags1":" java ssl netty","tags2":""}
+{"tags1":" control simulator home bridge smart hue philips eneco toon","tags2":""}
+{"tags1":" webdriver spring appium","tags2":""}
+{"tags1":" java flask micro-framework web-framework","tags2":""}
+{"tags1":"","tags2":" bioinformatics cancer mapping mutation umi variant amplicon exon ctdna"}
+{"tags1":" algorithm practice leetcode","tags2":""}
+{"tags1":" android java textview gradient shadow stroker","tags2":""}
+{"tags1":" java gooddata","tags2":""}
+{"tags1":" android java timer stopwatch android-application lockscreen bbq-timer","tags2":""}
+{"tags1":"","tags2":" java w3c w3c-validator"}
+{"tags1":" java mongodb morphia","tags2":""}
+{"tags1":" java ssh lostfound","tags2":""}
+{"tags1":" data-mining exploratory-data-analysis","tags2":""}
+{"tags1":" minecraft minecraft-mod minecraft-forge-mod","tags2":""}
+{"tags1":"","tags2":" java api events reactive microservice ddd messaging event-sourcing microservices-architecture"}
+{"tags1":"","tags2":" windows deprecated jenkins-plugin wmi dcom adopt-this-plugin"}
+{"tags1":"","tags2":" plugin java minecraft bukkit spigot paper random-teleport wildtp"}
+{"tags1":"","tags2":" android bluetooth beacon sevice bluetooth-le-scanner beacon-scanner-service"}
+{"tags1":" simulation plc scada","tags2":""}
+{"tags1":" java cassandra reactive-streams datastax-java-driver","tags2":""}
+{"tags1":" visualization particle-swarm-optimization pso high-dimensional","tags2":""}
+{"tags1":" coverage data-flow-coverage","tags2":""}
+{"tags1":" java marklogic xquery xcc batch-job corb batch-processing javascript-modules corb-jobs","tags2":""}
+{"tags1":" javascript java demo extjs extjs6","tags2":""}
+{"tags1":" plugin java jframe","tags2":""}
+{"tags1":" java distributed-computing mesos mesosphere mesos-pinspider","tags2":""}
+{"tags1":"","tags2":" java minecraft sponge forge almura"}
+{"tags1":" obsolete deprecated-repo","tags2":""}
+{"tags1":" java swing scientific-calculator","tags2":""}
+{"tags1":" android deprecated audio-recorder record-audio","tags2":""}
+{"tags1":"","tags2":" rdf semantic-web datacube question-answering"}
+{"tags1":" c java c-plus-plus opengl computer-graphics data-structures sorting-algorithms numerical-methods gpu-programming","tags2":""}
+{"tags1":"","tags2":" git java sql plsql svn database-container"}
+{"tags1":" arcus spring-cache arcus-spring","tags2":""}
+{"tags1":"","tags2":" java images src url-builder srcset imgix signing-imgix-urls"}
+{"tags1":"","tags2":" java tdd junit junit-rule"}
+{"tags1":" sample spring-boot doma","tags2":""}
+{"tags1":" xposed","tags2":""}
+{"tags1":"","tags2":" eclipse intellij watchdog ides testroots"}
+{"tags1":" progress-view","tags2":""}
+{"tags1":" web-ontology-language sparql-query","tags2":""}
+{"tags1":"","tags2":" tracker java torrent proxy udp spoofing tunneling udp-traffic tracker-communication"}
+{"tags1":"","tags2":" java libgdx rpg-maker"}
+{"tags1":"","tags2":" android hacktoberfest"}
+{"tags1":"","tags2":" java jboss-fuse apache-camel"}
+{"tags1":" java http-server","tags2":""}
+{"tags1":"","tags2":" java search-engine crawler filesystem-crawler norconex-filesystem-collector"}
+{"tags1":" hacktoberfest hacktoberfest2021","tags2":""}
+{"tags1":"","tags2":" java dropwizard orientdb"}
+{"tags1":"","tags2":" java smartcard apdu esteid apdu4j"}
+{"tags1":" kaggle-competition gls tsp","tags2":""}
+{"tags1":" menu-generator actionsheet android-actionsheet","tags2":""}
+{"tags1":"","tags2":" docker spring-boot geoparsing geonames geolocation gazetteer geotagging clavin-rest clavin novetta georesolution"}
+{"tags1":" angularjs java spring spring-framework spa-demo","tags2":""}
+{"tags1":"","tags2":" java bootstrap jquery website tiles workflow video spring maven log4j checkstyle rwd bootstrap3 spring-mvc apache-tiles responsive-layout log4j2 maven-wrapper responsive-web-design"}
+{"tags1":"","tags2":" android monitoring"}
+{"tags1":" java music-player jsoup substance java-swing java-sound","tags2":""}
+{"tags1":" plugin java minecraft sponge gradle spongeapi minecraft-sponge sponge-plugin","tags2":""}
+{"tags1":"","tags2":" java sdk yoomoney"}
+{"tags1":" mesos","tags2":""}
+{"tags1":" java monitoring nagios jmx nagios-nrpe nagios-plugin xml-configuration","tags2":""}
+{"tags1":" android java ui transparent","tags2":""}

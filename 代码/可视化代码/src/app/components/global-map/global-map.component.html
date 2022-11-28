@@ -1,0 +1,26 @@
+<div nz-row style="min-width: 1500px">
+  <nz-row style="width:100%;background-color: black;">
+    <div nz-col nzSpan="24">
+      <div style="text-align: center;margin-top: 30px">
+        <h1 style="color: white">{{title}}</h1>
+      </div>
+    </div>
+  </nz-row>
+  <nz-row style="width: 100%;background-color: black">
+    <nz-col nzSpan="7">
+
+      <div echarts [options]="globalBarOption" style="min-height: 768px;width: 100%"
+           (chartMouseOver)="changeBar($event)"></div>
+
+    </nz-col>
+    <nz-col nzSpan="17">
+
+      <div echarts [options]="globalMapOption" style="min-height: 768px;width:100%" (chartInit)="onChartInit($event)" [merge]="updateOptions" ></div>
+
+    </nz-col>
+
+
+  </nz-row>
+
+
+</div>

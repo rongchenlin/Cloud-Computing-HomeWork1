@@ -1,0 +1,16 @@
+<nz-row style="min-width: 1500px">
+  <nz-col nzSpan="24">
+
+
+    <nz-carousel nzAutoPlay nzAutoPlaySpeed="2000" nzDots="false" #wordCloud>
+      <div nz-carousel-content *ngFor="let option of options">
+        <div echarts [options]="option" style="min-height: 768px;width: 100%"></div>
+      </div>
+    </nz-carousel>
+  </nz-col>
+
+
+</nz-row>
+
+
+

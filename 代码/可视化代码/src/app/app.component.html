@@ -1,0 +1,27 @@
+<div style="height: 100%;width: 100%">
+<!-- <router-outlet ></router-outlet>-->
+<nz-carousel nzEffect="scrollx" nzDots="false"  nzEnableSwipe (nzBeforeChange)="changePage($event)">
+      <div nz-carousel-content>
+         <app-global-map #globalMap></app-global-map>
+      </div>
+      <div nz-carousel-content>
+        <app-china-map #chinaMap></app-china-map>
+      </div>
+
+      <div nz-carousel-content>
+        <app-tag-word-cloud #tagWordCloud></app-tag-word-cloud>
+      </div>
+      <div nz-carousel-content>
+        <app-project-popular #projectPopular></app-project-popular>
+      </div>
+<!--      <div nz-carousel-content>
+
+      </div>-->
+    </nz-carousel>
+
+  <!--  <nz-card>
+
+      <div  echarts [options]=""></div>
+
+    </nz-card>-->
+</div>
